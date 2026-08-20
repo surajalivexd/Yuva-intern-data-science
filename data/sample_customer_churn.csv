@@ -1,0 +1,1501 @@
+age,tenure_months,monthly_charges,total_usage_hours,support_calls,payment_delays,contract_type,internet_service,payment_method,churn
+56,42,23.27,219.18,11,3,Monthly,Standard,UPI,0
+69,41,110.28,282.13,0,2,Yearly,Standard,Bank Transfer,0
+46,38,30.69,181.54,11,3,Monthly,Basic,Credit Card,1
+32,34,138.39,259.08,6,2,Yearly,Premium,Debit Card,1
+60,17,80.38,246.93,4,2,Two-Year,Basic,Bank Transfer,1
+25,37,37.88,52.83,7,4,Yearly,Basic,Debit Card,0
+38,25,64.31,146.26,3,5,Monthly,Premium,UPI,0
+56,27,41.43,35.96,11,1,Yearly,Premium,Debit Card,0
+36,57,42.18,204.96,9,1,Yearly,Premium,Bank Transfer,0
+40,31,143.25,285.02,6,2,Yearly,Standard,UPI,0
+28,6,77.88,41.99,5,1,Monthly,Standard,Bank Transfer,0
+28,40,,220.43,4,0,Monthly,Premium,Debit Card,1
+41,12,103.15,190.04,3,2,Monthly,Standard,Bank Transfer,0
+53,53,,175.5,6,1,Monthly,Basic,UPI,1
+57,71,37.12,,11,0,Monthly,Premium,Debit Card,1
+41,10,50.44,107.18,4,4,Monthly,Basic,Debit Card,1
+20,45,122.28,14.53,4,1,Yearly,Premium,Credit Card,0
+39,17,146.2,66.15,0,0,Two-Year,Basic,Credit Card,1
+19,26,54.15,,1,3,Yearly,Premium,Bank Transfer,1
+41,62,55.3,174.84,4,5,Monthly,Basic,Credit Card,1
+61,46,81.48,32.65,2,3,Monthly,Premium,Credit Card,0
+47,64,147.9,262.03,1,0,Two-Year,Premium,Credit Card,0
+55,2,54.96,157.42,3,2,Two-Year,Standard,Credit Card,0
+19,54,72.91,210.21,3,2,Two-Year,Basic,UPI,1
+38,65,135.89,123.85,3,1,Yearly,Standard,UPI,1
+50,51,,168.61,3,3,Monthly,Basic,Credit Card,1
+29,53,25.17,282.86,2,2,Yearly,Standard,Bank Transfer,1
+39,36,98.53,25.74,11,2,Monthly,Premium,UPI,0
+61,26,137.96,76.93,6,3,Monthly,Standard,Credit Card,1
+42,29,51.05,234.22,8,4,Yearly,Standard,UPI,0
+66,21,81.05,30.52,11,2,Monthly,Premium,Debit Card,0
+44,11,78.56,23.62,4,5,Monthly,Standard,UPI,1
+59,40,81.49,109.1,3,0,Monthly,Premium,UPI,1
+45,11,100.93,28.56,10,1,Monthly,Basic,Bank Transfer,0
+33,36,81.07,175.94,1,2,Two-Year,Standard,UPI,1
+32,59,78.17,68.66,1,5,Monthly,Premium,Bank Transfer,1
+64,39,81.66,268.81,4,5,Monthly,Premium,Debit Card,1
+68,54,96.81,235.27,6,2,Monthly,Standard,Credit Card,1
+61,55,89.81,210.21,9,4,Monthly,Basic,Bank Transfer,1
+69,24,131.04,185.47,9,0,Monthly,Standard,UPI,0
+20,22,26.43,259.18,8,1,Yearly,Premium,UPI,0
+54,69,128.33,67.7,6,2,Monthly,Basic,Bank Transfer,1
+68,56,129.71,262.06,4,1,Yearly,Standard,Debit Card,1
+24,33,57.04,237.06,9,3,Two-Year,Premium,Credit Card,0
+38,36,,224.7,9,5,Yearly,Standard,UPI,1
+26,20,77.01,168.82,9,5,Monthly,Basic,Debit Card,1
+56,62,48.41,74.63,5,2,Monthly,Basic,Credit Card,1
+35,26,71.58,127.64,10,2,Two-Year,Basic,Credit Card,1
+21,66,25.77,238.28,11,3,Monthly,Basic,UPI,0
+42,40,56.12,10.5,2,4,Yearly,Basic,Bank Transfer,0
+31,17,126.17,234.83,4,2,Two-Year,Standard,UPI,1
+67,1,56.99,72.78,7,5,Two-Year,Basic,UPI,1
+26,61,126.37,44.15,0,1,Two-Year,Basic,UPI,1
+43,43,89.11,35.59,11,0,Yearly,Premium,Debit Card,1
+19,42,134.38,9.15,0,1,Monthly,Basic,Bank Transfer,0
+37,25,94.72,157.55,6,4,Two-Year,Premium,Debit Card,0
+45,39,23.86,66.26,4,0,Monthly,Premium,UPI,0
+64,35,,296.84,4,1,Monthly,Premium,Bank Transfer,0
+24,3,25.83,172.76,0,1,Yearly,Standard,Credit Card,0
+61,44,78.58,42.23,8,3,Yearly,Standard,Bank Transfer,0
+25,51,140.83,206.94,0,4,Two-Year,Premium,UPI,1
+64,12,41.48,269.43,4,5,Yearly,Standard,Bank Transfer,1
+52,19,70.68,223.81,9,3,Monthly,Basic,Credit Card,0
+31,44,114.88,23.86,8,0,Two-Year,Standard,,1
+34,59,134.69,268.87,3,5,Yearly,Basic,Bank Transfer,0
+53,49,107.22,238.38,7,3,Yearly,Basic,Credit Card,0
+67,61,53.56,48.33,5,4,Monthly,Standard,Debit Card,0
+57,17,107.7,16.48,10,2,Monthly,Standard,Bank Transfer,1
+21,57,58.57,167.64,2,2,Yearly,Premium,Credit Card,0
+19,55,113.4,47.65,3,0,Monthly,Standard,Credit Card,1
+23,47,144.02,250.54,1,2,Monthly,Standard,Bank Transfer,0
+59,12,113.78,108.14,0,3,Yearly,Standard,Debit Card,1
+21,62,132.17,273.95,7,0,Monthly,Basic,Bank Transfer,0
+46,8,20.27,170.14,0,5,Monthly,Basic,Credit Card,0
+35,21,113.28,55.62,10,4,Monthly,Basic,Bank Transfer,1
+43,70,127.85,42.74,0,0,Monthly,Premium,Credit Card,0
+61,72,25.27,173.37,3,5,Yearly,Premium,UPI,0
+51,25,133.31,228.8,9,0,Monthly,Premium,Bank Transfer,1
+27,12,53.37,234.67,11,1,Monthly,Basic,Bank Transfer,0
+53,15,106.49,83.45,9,1,Yearly,Standard,Credit Card,1
+31,59,124.05,62.07,5,0,Two-Year,Premium,Credit Card,0
+48,26,106.15,6.01,8,2,Yearly,Premium,Credit Card,0
+65,26,32.0,204.08,0,1,Monthly,Basic,Credit Card,0
+32,47,97.52,23.89,6,4,Monthly,Premium,Bank Transfer,1
+25,32,91.45,126.81,9,5,Two-Year,Standard,Credit Card,0
+31,10,137.04,180.9,10,3,Monthly,Basic,Bank Transfer,1
+40,16,72.55,281.2,4,1,Yearly,Basic,Debit Card,1
+57,71,61.74,94.23,11,0,Monthly,Standard,Bank Transfer,0
+38,17,117.48,75.68,7,2,Monthly,Standard,Credit Card,1
+33,23,73.65,196.59,6,3,Yearly,Standard,Credit Card,1
+62,26,103.99,186.15,3,5,Yearly,Premium,Debit Card,0
+35,7,104.04,100.3,3,5,Yearly,Standard,Bank Transfer,1
+64,14,135.45,278.5,5,1,Monthly,Basic,Debit Card,1
+41,7,97.83,253.61,5,5,Monthly,Standard,Bank Transfer,1
+43,9,85.28,67.97,8,5,Yearly,Basic,Credit Card,0
+42,48,38.05,72.5,11,2,Yearly,Basic,Bank Transfer,0
+62,72,35.05,154.18,4,2,Monthly,Premium,Credit Card,0
+58,59,40.06,232.3,7,2,Monthly,Standard,Credit Card,1
+46,39,42.34,14.17,4,0,Monthly,Premium,,1
+32,18,102.92,208.31,1,5,Two-Year,Standard,UPI,1
+62,59,116.33,194.82,5,5,Yearly,Standard,Bank Transfer,1
+18,17,88.9,70.21,8,5,Two-Year,Standard,Credit Card,0
+42,14,127.77,204.72,2,4,Monthly,Standard,Debit Card,1
+24,31,148.86,282.11,0,2,Two-Year,Standard,Credit Card,1
+26,24,126.6,14.99,0,3,Monthly,Basic,Debit Card,1
+41,60,110.33,96.58,2,1,Monthly,Basic,Bank Transfer,0
+18,45,89.22,132.01,9,3,Yearly,Standard,Bank Transfer,0
+61,3,78.35,269.88,4,0,Monthly,Basic,Debit Card,0
+25,37,30.97,288.72,2,0,Monthly,Premium,Debit Card,0
+41,43,71.92,133.79,8,5,Monthly,Premium,Credit Card,1
+28,40,138.32,225.26,7,3,Monthly,Premium,Bank Transfer,1
+68,55,125.04,159.97,2,5,Yearly,Standard,Credit Card,1
+34,39,48.09,161.8,8,4,Yearly,Standard,Debit Card,0
+25,15,80.66,84.15,5,0,Yearly,Basic,UPI,0
+52,4,126.17,65.87,6,0,Yearly,Basic,UPI,0
+52,25,28.76,87.11,3,3,Yearly,Basic,UPI,0
+50,13,70.36,167.34,3,0,Monthly,Premium,Debit Card,0
+22,33,130.74,9.72,11,4,Monthly,Premium,Credit Card,0
+59,16,72.51,272.27,1,4,Two-Year,Premium,Bank Transfer,0
+56,42,30.09,47.73,4,4,Monthly,Premium,Debit Card,0
+58,66,90.53,66.81,7,1,Yearly,Basic,UPI,1
+45,55,132.03,,6,4,Monthly,Standard,Credit Card,0
+24,42,96.74,213.32,6,4,Yearly,Standard,,0
+26,34,49.42,29.62,5,1,Yearly,Premium,Bank Transfer,0
+25,30,69.95,95.99,2,5,Monthly,Standard,Debit Card,0
+29,13,78.52,290.63,4,2,Monthly,Standard,Debit Card,0
+51,13,95.3,,0,0,Yearly,Standard,Bank Transfer,1
+50,18,118.72,94.6,6,4,Monthly,Premium,Bank Transfer,1
+65,32,32.85,251.11,8,0,Monthly,Basic,UPI,1
+40,39,135.65,16.01,0,3,Yearly,Basic,Bank Transfer,0
+41,46,21.6,139.92,1,0,Monthly,Standard,Debit Card,0
+54,29,68.11,114.51,2,5,Two-Year,Basic,Credit Card,1
+52,62,23.56,95.66,2,1,Monthly,Basic,UPI,1
+61,62,71.09,86.42,7,0,Monthly,Premium,UPI,0
+57,57,88.36,28.32,6,0,Yearly,Premium,Bank Transfer,1
+39,16,86.52,95.13,5,0,Monthly,Standard,Credit Card,1
+44,56,41.53,13.87,9,2,Monthly,Standard,UPI,0
+52,10,103.95,234.51,9,2,Monthly,Standard,Debit Card,1
+18,30,25.82,120.07,10,3,Monthly,Premium,Bank Transfer,1
+52,25,119.05,133.73,3,1,Monthly,Basic,Debit Card,0
+54,5,143.06,268.18,8,0,Monthly,Premium,Bank Transfer,0
+64,65,64.17,197.76,0,0,Monthly,Premium,,0
+31,49,87.24,3.41,10,0,Monthly,Basic,Bank Transfer,0
+20,3,69.26,283.01,1,0,Yearly,Basic,Credit Card,1
+18,45,20.87,71.91,3,2,Yearly,Standard,Debit Card,0
+22,14,70.16,33.18,2,5,Monthly,Basic,Credit Card,1
+43,30,,230.67,0,5,Yearly,Basic,Debit Card,0
+31,68,97.48,150.64,4,3,Yearly,Basic,Debit Card,0
+56,18,33.16,130.7,6,4,Yearly,Basic,Bank Transfer,0
+44,62,130.13,75.6,1,1,Yearly,Standard,UPI,0
+26,37,89.04,164.69,4,5,Monthly,Standard,UPI,0
+32,25,129.42,83.04,5,0,Two-Year,Basic,Credit Card,1
+32,48,95.43,270.57,10,5,Monthly,Basic,Bank Transfer,1
+43,65,92.76,65.35,6,3,Monthly,Standard,UPI,1
+59,53,33.68,265.42,0,4,Yearly,Standard,Debit Card,1
+30,15,41.76,168.26,6,5,Monthly,Basic,Debit Card,0
+68,49,146.36,248.72,3,3,Monthly,Premium,Bank Transfer,1
+49,68,49.7,214.14,7,2,Yearly,Standard,Credit Card,0
+56,12,147.07,209.31,3,4,Yearly,Standard,Bank Transfer,1
+66,59,89.15,97.98,5,3,Yearly,Standard,Credit Card,1
+69,37,37.65,70.94,8,5,Yearly,Basic,Bank Transfer,1
+49,61,32.91,64.05,4,2,Monthly,Basic,Debit Card,0
+21,43,47.15,257.3,11,3,Monthly,Standard,Bank Transfer,1
+47,70,140.33,246.31,3,3,Yearly,Basic,UPI,0
+54,39,73.84,132.73,7,5,Monthly,Basic,UPI,1
+40,56,71.41,40.59,8,4,Yearly,Standard,Bank Transfer,0
+56,63,60.72,115.29,3,2,Monthly,Basic,Credit Card,0
+62,46,39.12,186.18,2,0,Monthly,Premium,Credit Card,0
+32,11,83.42,136.87,7,1,Monthly,Basic,Debit Card,0
+60,62,36.91,234.28,4,4,Yearly,Basic,Debit Card,0
+46,25,128.61,299.29,1,2,Monthly,Standard,Credit Card,1
+53,71,68.15,,9,3,Monthly,Standard,Bank Transfer,1
+30,52,68.72,138.44,8,2,Monthly,Premium,Debit Card,1
+49,4,81.62,129.86,2,1,Monthly,Basic,Credit Card,0
+24,59,77.74,92.04,11,5,Monthly,Premium,Credit Card,0
+68,72,149.33,60.23,1,1,Monthly,Premium,Bank Transfer,1
+39,20,90.9,20.64,0,0,Monthly,Standard,UPI,1
+45,63,31.47,266.25,7,0,Monthly,Basic,Credit Card,1
+19,54,98.89,126.53,10,1,Monthly,Standard,Debit Card,0
+59,57,39.71,149.57,2,4,Yearly,Premium,Bank Transfer,0
+62,41,24.02,275.17,6,4,Two-Year,Premium,Bank Transfer,0
+23,3,146.2,233.11,0,3,Monthly,Standard,Bank Transfer,0
+45,6,120.56,40.02,0,0,Monthly,Standard,UPI,1
+45,5,147.41,170.06,11,3,Monthly,Standard,UPI,1
+61,5,82.12,133.23,8,0,Yearly,Standard,Debit Card,1
+61,54,89.19,239.37,11,1,Monthly,Standard,Debit Card,1
+37,47,41.88,217.55,7,4,Monthly,Premium,Bank Transfer,0
+47,49,52.1,207.43,11,4,Yearly,Standard,Debit Card,0
+28,9,129.01,102.82,2,1,Monthly,Basic,Credit Card,0
+45,20,66.3,,5,3,Yearly,Premium,UPI,1
+42,61,127.49,16.66,10,3,Monthly,Premium,Bank Transfer,1
+56,35,112.17,48.73,2,2,Yearly,Basic,Bank Transfer,1
+50,50,43.03,101.35,11,0,Monthly,Basic,Credit Card,0
+18,62,85.97,23.97,3,3,Two-Year,Premium,,0
+44,17,108.06,71.26,0,1,Yearly,Standard,Credit Card,1
+69,3,50.55,,4,3,Monthly,Premium,Credit Card,0
+30,32,127.99,284.53,0,4,Monthly,Premium,Bank Transfer,0
+58,13,90.83,92.08,0,0,Monthly,Basic,UPI,0
+20,68,41.48,80.09,9,5,Yearly,Premium,UPI,0
+56,14,95.79,,10,2,Yearly,Standard,Credit Card,1
+23,11,149.96,84.04,10,0,Monthly,Basic,Debit Card,0
+25,56,39.57,11.74,6,4,Two-Year,Premium,Bank Transfer,0
+44,67,126.18,278.15,11,4,Monthly,Premium,UPI,0
+26,29,46.95,,5,4,Monthly,Standard,Credit Card,1
+54,9,121.71,126.58,1,4,Two-Year,Premium,Debit Card,1
+50,67,115.5,3.9,10,1,Yearly,Premium,Debit Card,1
+68,25,59.06,,11,2,Monthly,Premium,Credit Card,1
+59,42,62.36,219.62,1,5,Yearly,Premium,Bank Transfer,0
+61,9,123.03,284.08,10,4,Two-Year,Standard,UPI,0
+41,40,79.99,234.7,6,4,Yearly,Premium,Debit Card,1
+32,25,115.01,94.8,0,3,Yearly,Premium,,1
+49,5,39.24,,1,2,Yearly,Premium,UPI,1
+49,11,130.83,209.62,11,0,Monthly,Basic,Debit Card,1
+41,59,112.42,109.87,7,2,Yearly,Standard,Credit Card,1
+58,38,137.9,170.3,5,2,Monthly,Basic,,1
+69,72,37.21,2.87,1,5,Two-Year,Basic,Debit Card,0
+66,5,97.09,19.5,6,2,Monthly,Standard,Bank Transfer,1
+66,48,97.89,161.08,3,5,Yearly,Basic,UPI,1
+69,18,65.95,170.26,1,4,Monthly,Basic,Credit Card,0
+29,70,79.6,225.68,11,4,Monthly,Basic,UPI,1
+56,37,24.94,40.46,5,1,Monthly,Standard,Debit Card,0
+19,60,116.96,154.44,10,5,Two-Year,Premium,,0
+20,48,91.41,59.14,8,5,Two-Year,Standard,Credit Card,0
+66,28,27.51,28.87,10,0,Monthly,Standard,Credit Card,1
+54,69,108.5,123.74,8,3,Two-Year,Standard,Credit Card,1
+66,40,80.68,49.84,7,2,Yearly,Basic,Bank Transfer,0
+34,45,24.48,67.31,2,0,Yearly,Premium,Credit Card,0
+66,62,146.05,95.95,2,5,Monthly,Standard,Debit Card,1
+19,58,143.38,78.56,1,0,Two-Year,Standard,Bank Transfer,1
+19,67,86.68,27.19,4,1,Yearly,Premium,Debit Card,1
+45,56,32.18,27.88,11,3,Two-Year,Premium,Debit Card,1
+40,40,118.1,58.78,3,5,Yearly,Premium,UPI,0
+54,40,83.95,16.12,6,5,Yearly,Basic,Credit Card,1
+49,33,59.32,188.31,3,2,Yearly,Premium,Credit Card,1
+50,6,83.88,86.91,8,3,Monthly,Basic,Debit Card,0
+18,19,87.92,84.64,11,1,Monthly,Standard,Credit Card,1
+36,40,93.15,100.27,11,4,Monthly,Basic,Bank Transfer,0
+19,59,77.36,199.18,1,0,Monthly,Premium,UPI,0
+61,59,98.75,261.32,10,2,Yearly,Basic,Credit Card,1
+43,48,139.44,227.97,5,5,Yearly,Premium,Credit Card,0
+49,41,67.09,218.53,6,4,Two-Year,Basic,Bank Transfer,0
+23,13,114.34,145.83,3,1,Monthly,Standard,UPI,1
+49,45,136.28,208.45,5,3,Monthly,Basic,Bank Transfer,1
+21,53,79.28,166.28,6,0,Monthly,Standard,Debit Card,0
+28,42,77.65,65.66,3,2,Monthly,Premium,Debit Card,0
+34,63,98.28,,7,5,Monthly,Standard,Credit Card,1
+55,27,96.88,89.62,8,5,Yearly,Premium,UPI,1
+41,38,124.86,273.33,0,4,Monthly,Premium,Debit Card,0
+22,60,81.94,164.68,6,4,Yearly,Standard,Bank Transfer,1
+69,7,149.5,220.44,8,0,Monthly,Standard,Debit Card,1
+51,5,27.73,104.62,11,3,Two-Year,Basic,Debit Card,0
+23,45,20.41,122.91,9,1,Yearly,Basic,Bank Transfer,0
+39,58,103.23,38.54,4,3,Two-Year,Standard,Credit Card,0
+28,31,58.8,52.22,11,3,Two-Year,Standard,UPI,0
+65,23,51.25,248.38,1,3,Two-Year,Standard,Credit Card,0
+33,42,60.55,175.87,9,0,Two-Year,Standard,Bank Transfer,1
+50,10,53.29,101.92,5,0,Yearly,Premium,Debit Card,0
+26,32,24.0,241.05,11,1,Monthly,Standard,UPI,0
+23,53,146.3,74.71,11,3,Monthly,Standard,Credit Card,1
+33,30,48.7,,6,0,Monthly,Standard,Bank Transfer,0
+46,39,115.42,104.1,1,1,Yearly,Standard,Debit Card,0
+20,31,119.14,101.86,1,5,Monthly,Premium,Debit Card,0
+37,2,140.8,94.26,9,1,Two-Year,Basic,Credit Card,0
+53,12,23.97,37.51,11,3,Two-Year,Basic,Bank Transfer,1
+36,39,133.37,34.23,9,2,Monthly,Basic,Debit Card,0
+43,66,88.54,194.78,0,3,Monthly,Basic,Debit Card,1
+20,13,102.23,262.66,3,2,Two-Year,Basic,UPI,0
+36,46,103.78,237.37,6,1,Monthly,Premium,Debit Card,1
+37,27,126.57,43.19,8,5,Yearly,Basic,Credit Card,1
+49,17,63.34,164.13,2,5,Monthly,Premium,Bank Transfer,1
+24,60,115.3,32.57,11,0,Yearly,Premium,Bank Transfer,1
+69,64,88.72,,10,5,Monthly,Basic,UPI,0
+58,35,123.14,197.26,6,4,Two-Year,Basic,Bank Transfer,1
+50,70,148.77,161.01,6,1,Yearly,Basic,Credit Card,1
+57,30,46.08,25.53,6,0,Monthly,Standard,Debit Card,1
+56,71,149.3,11.45,1,5,Monthly,Premium,,1
+35,63,31.68,296.94,5,1,Monthly,Basic,Bank Transfer,0
+57,28,20.3,9.98,1,3,Two-Year,Standard,,0
+18,60,25.74,133.91,5,5,Yearly,Premium,UPI,1
+28,37,64.43,151.88,9,2,Monthly,Standard,Bank Transfer,0
+45,22,102.28,36.07,2,1,Monthly,Standard,UPI,1
+42,68,28.97,51.55,1,0,Monthly,Basic,Bank Transfer,0
+67,20,20.74,106.19,11,3,Yearly,Premium,Credit Card,0
+40,68,141.82,228.74,5,4,Yearly,Standard,Bank Transfer,0
+48,64,126.85,152.62,1,3,Monthly,Premium,Debit Card,0
+47,17,125.19,,4,5,Yearly,Basic,Bank Transfer,0
+59,12,134.98,295.57,1,2,Yearly,Premium,Debit Card,0
+52,22,111.0,230.63,2,3,Two-Year,Standard,UPI,0
+24,17,33.57,130.87,2,4,Two-Year,Standard,Bank Transfer,1
+33,10,71.88,134.49,5,0,Yearly,Premium,Debit Card,1
+43,65,114.01,186.01,5,1,Yearly,Standard,Bank Transfer,0
+65,22,56.44,199.94,9,2,Monthly,Standard,Bank Transfer,0
+69,50,109.36,150.71,2,4,Yearly,Standard,Bank Transfer,1
+66,14,23.18,,2,5,Monthly,Basic,Credit Card,1
+19,64,59.8,,11,5,Monthly,Basic,Debit Card,1
+18,47,91.39,129.46,0,5,Monthly,Standard,Credit Card,1
+65,29,102.17,84.4,6,2,Yearly,Premium,Credit Card,0
+29,36,95.02,39.62,7,3,Monthly,Basic,Debit Card,0
+22,52,110.71,30.76,1,2,Monthly,Premium,Bank Transfer,0
+54,7,20.79,181.35,3,5,Monthly,Standard,Credit Card,0
+49,29,33.12,157.56,9,4,Monthly,Standard,Credit Card,1
+26,11,132.96,76.82,6,1,Monthly,Premium,Credit Card,1
+58,33,108.63,141.81,7,1,Yearly,Basic,Bank Transfer,1
+52,6,34.68,148.18,0,2,Yearly,Premium,Credit Card,0
+36,32,129.47,59.31,3,5,Monthly,Premium,UPI,1
+65,51,51.49,195.98,5,0,Two-Year,Standard,Debit Card,1
+33,58,82.17,234.49,2,2,Yearly,Basic,UPI,0
+20,26,38.88,237.65,4,5,Monthly,Premium,Bank Transfer,1
+37,46,112.31,181.14,9,3,Yearly,Basic,Credit Card,1
+41,29,106.69,153.98,8,1,Two-Year,Standard,Debit Card,1
+50,4,,19.24,10,1,Monthly,Basic,Credit Card,1
+41,13,132.24,,2,1,Monthly,Standard,Bank Transfer,1
+69,39,72.17,28.89,4,0,Two-Year,Basic,Debit Card,1
+28,15,58.03,289.18,7,5,Yearly,Premium,UPI,0
+66,29,39.8,41.39,5,5,Monthly,Standard,Debit Card,0
+25,29,54.6,46.38,3,5,Yearly,Premium,Credit Card,1
+53,32,22.86,266.98,7,5,Monthly,Standard,Debit Card,0
+55,2,95.82,283.23,10,0,Two-Year,Basic,Bank Transfer,1
+57,47,129.49,229.98,2,4,Monthly,Basic,Bank Transfer,1
+37,22,91.37,2.62,2,2,Monthly,Standard,Debit Card,1
+52,27,48.51,1.4,3,2,Yearly,Standard,Bank Transfer,0
+65,67,24.38,114.05,8,5,Monthly,Standard,Bank Transfer,0
+42,56,47.9,43.88,4,3,Monthly,Basic,Bank Transfer,0
+52,21,74.1,6.5,7,1,Yearly,Standard,UPI,0
+42,47,118.75,139.76,5,0,Yearly,Standard,Credit Card,0
+46,59,44.42,282.98,2,3,Monthly,Premium,Bank Transfer,0
+35,6,113.57,97.82,7,3,Yearly,Standard,Debit Card,0
+63,19,132.7,198.68,11,5,Monthly,Premium,Bank Transfer,1
+35,57,79.01,196.02,8,0,Monthly,Premium,UPI,1
+19,69,126.79,76.07,7,2,Monthly,Premium,Debit Card,0
+52,3,92.11,195.48,3,1,Monthly,Basic,Credit Card,0
+33,1,102.82,64.49,10,2,Yearly,Premium,Debit Card,1
+58,58,88.42,37.48,5,3,Monthly,Standard,Debit Card,1
+53,38,80.21,210.71,0,1,Yearly,Basic,Debit Card,0
+50,15,50.5,34.92,3,4,Monthly,Basic,Debit Card,1
+21,34,59.42,299.08,7,3,Two-Year,Basic,Bank Transfer,1
+50,61,57.7,55.85,0,2,Yearly,Basic,Credit Card,0
+31,35,93.23,178.65,2,2,Yearly,Basic,Bank Transfer,0
+38,64,35.59,124.0,0,5,Monthly,Basic,UPI,0
+65,25,139.18,38.79,8,2,Monthly,Basic,UPI,0
+37,24,113.69,9.33,1,0,Monthly,Premium,Debit Card,0
+25,12,72.19,187.2,8,3,Two-Year,Standard,Bank Transfer,1
+24,18,40.62,242.22,3,1,Monthly,Standard,Bank Transfer,1
+20,15,134.66,252.76,1,2,Yearly,Premium,Credit Card,0
+34,27,127.09,145.33,3,5,Yearly,Premium,Credit Card,0
+50,72,113.82,233.46,11,5,Monthly,Basic,Credit Card,1
+65,60,55.3,202.18,10,2,Yearly,Basic,Bank Transfer,0
+29,46,72.32,217.55,10,0,Yearly,Premium,Credit Card,0
+68,17,33.36,148.29,9,5,Yearly,Basic,Credit Card,1
+39,53,44.58,190.39,5,1,Monthly,Standard,Credit Card,1
+39,8,121.79,241.85,10,3,Monthly,Standard,Debit Card,1
+63,27,112.96,119.97,6,4,Monthly,Basic,UPI,0
+47,46,97.15,241.99,2,0,Yearly,Basic,UPI,0
+55,50,136.44,178.01,2,5,Yearly,Basic,Bank Transfer,1
+55,71,95.82,50.6,11,3,Monthly,Standard,Bank Transfer,0
+62,3,80.71,8.38,9,4,Two-Year,Basic,,0
+68,64,64.25,109.46,11,2,Monthly,Premium,UPI,0
+25,44,142.26,164.46,7,2,Two-Year,Basic,Credit Card,0
+44,53,30.75,252.11,4,1,Two-Year,Premium,Credit Card,0
+44,24,141.02,39.12,3,4,Two-Year,Basic,Bank Transfer,1
+51,60,127.47,240.26,6,2,Yearly,Basic,UPI,1
+38,3,36.89,259.04,6,2,Monthly,Standard,Bank Transfer,0
+47,20,93.45,46.06,8,5,Monthly,Premium,Bank Transfer,1
+50,46,132.65,255.63,8,1,Yearly,Premium,Credit Card,0
+45,15,94.34,297.44,4,3,Monthly,Premium,Credit Card,0
+64,25,137.94,218.32,11,2,Monthly,Standard,UPI,1
+50,71,142.59,235.65,7,0,Yearly,Premium,Bank Transfer,1
+22,17,74.91,298.33,9,0,Monthly,Standard,Debit Card,0
+65,9,69.05,182.04,0,3,Two-Year,Basic,UPI,0
+36,38,141.72,93.06,8,4,Yearly,Basic,Bank Transfer,1
+21,48,107.77,251.42,7,1,Yearly,Premium,UPI,0
+52,60,35.08,184.73,5,5,Yearly,Basic,UPI,1
+66,63,25.5,174.78,2,0,Two-Year,Basic,UPI,1
+34,2,93.4,76.84,2,0,Yearly,Premium,Debit Card,1
+61,72,140.92,227.14,7,3,Yearly,Basic,Debit Card,1
+45,11,129.75,25.42,4,4,Monthly,Premium,Credit Card,0
+47,64,107.86,,9,4,Two-Year,Premium,Credit Card,0
+46,72,38.09,98.42,10,3,Yearly,Basic,Bank Transfer,1
+63,21,53.05,39.2,6,0,Monthly,Basic,UPI,1
+23,18,133.82,133.27,4,1,Monthly,Basic,Bank Transfer,1
+52,64,43.76,13.7,7,0,Yearly,Basic,Credit Card,0
+58,38,56.2,205.7,9,4,Monthly,Basic,Debit Card,1
+54,32,36.85,270.91,9,5,Two-Year,Standard,Credit Card,0
+41,11,107.89,251.34,3,0,Two-Year,Basic,Bank Transfer,0
+46,45,142.72,39.08,1,1,Monthly,Standard,Credit Card,1
+66,33,54.97,38.76,2,2,Yearly,Premium,Bank Transfer,0
+63,41,81.8,244.22,7,0,Monthly,Basic,Bank Transfer,1
+48,8,102.46,,10,3,Yearly,Basic,Bank Transfer,1
+52,11,149.93,138.74,6,2,Monthly,Basic,Bank Transfer,1
+50,51,33.63,150.19,1,3,Yearly,Premium,Credit Card,0
+69,41,84.81,96.16,5,3,Monthly,Standard,Bank Transfer,1
+38,17,70.07,268.39,8,3,Monthly,Standard,Bank Transfer,1
+49,46,132.56,193.83,3,0,Monthly,Basic,UPI,0
+40,32,81.88,87.19,8,4,Monthly,Basic,Bank Transfer,1
+50,54,34.43,90.34,1,2,Yearly,Basic,Credit Card,0
+20,20,102.48,267.47,1,1,Monthly,Basic,Bank Transfer,0
+35,33,120.2,5.08,8,4,Monthly,Premium,Debit Card,1
+42,40,20.37,97.5,11,0,Two-Year,Basic,Debit Card,1
+59,32,131.66,166.75,6,3,Yearly,Premium,Bank Transfer,1
+48,2,44.18,45.32,6,1,Two-Year,Basic,Debit Card,0
+20,33,91.77,28.54,0,2,Two-Year,Standard,Debit Card,0
+57,30,74.05,244.77,10,4,Monthly,Standard,Credit Card,1
+63,33,113.55,268.43,5,5,Monthly,Basic,UPI,1
+41,26,68.25,247.26,6,4,Yearly,Basic,Debit Card,1
+67,22,133.07,269.74,10,1,Two-Year,Premium,Debit Card,1
+49,66,114.96,166.38,5,0,Two-Year,Basic,UPI,0
+64,38,104.2,243.87,5,2,Monthly,Basic,UPI,0
+39,46,123.51,115.83,1,1,Monthly,Basic,Debit Card,1
+40,15,118.02,200.21,5,3,Monthly,Standard,Bank Transfer,1
+19,44,24.67,296.66,3,2,Yearly,Premium,Debit Card,1
+44,49,71.32,68.49,8,4,Yearly,Standard,Bank Transfer,1
+59,61,141.0,117.58,11,1,Monthly,Premium,Bank Transfer,0
+19,67,36.34,144.53,0,4,Monthly,Standard,Bank Transfer,0
+43,6,115.82,42.27,7,4,Yearly,Basic,UPI,1
+34,9,146.7,25.23,4,4,Yearly,Standard,Debit Card,1
+57,6,26.79,249.09,0,0,Monthly,Standard,Debit Card,0
+50,32,108.69,293.06,3,4,Two-Year,Premium,Credit Card,0
+26,41,80.86,122.01,0,3,Yearly,Premium,UPI,0
+60,8,95.29,27.21,5,3,Yearly,Standard,Credit Card,1
+65,72,31.09,20.68,1,2,Yearly,Premium,Credit Card,0
+56,50,25.59,267.5,4,5,Monthly,Premium,Bank Transfer,0
+46,62,,139.68,6,4,Monthly,Premium,UPI,1
+59,62,127.03,96.69,1,4,Yearly,Premium,Credit Card,1
+43,7,121.66,143.46,5,1,Monthly,Premium,Debit Card,1
+52,4,90.69,96.17,5,0,Yearly,Standard,Credit Card,0
+67,6,32.98,147.22,4,5,Yearly,Premium,UPI,1
+42,58,109.45,258.01,4,2,Yearly,Basic,Debit Card,1
+41,22,51.45,178.1,2,5,Monthly,Standard,Debit Card,0
+30,26,138.44,208.7,9,4,Monthly,Standard,Debit Card,1
+24,3,128.97,110.04,9,1,Yearly,Standard,Bank Transfer,0
+53,41,112.22,221.81,10,0,Monthly,Premium,Debit Card,0
+62,60,143.35,200.32,11,2,Yearly,Basic,Bank Transfer,1
+37,14,24.08,36.75,1,5,Yearly,Premium,Bank Transfer,1
+18,12,115.71,172.22,6,2,Monthly,Standard,Credit Card,0
+25,12,62.93,77.77,0,4,Yearly,Standard,Credit Card,0
+63,13,137.79,241.42,5,2,Monthly,Standard,Debit Card,0
+33,25,54.67,128.36,5,1,Monthly,Standard,UPI,0
+31,45,114.23,298.41,2,2,Two-Year,Premium,Debit Card,0
+29,19,134.09,28.66,1,3,Two-Year,Basic,Credit Card,1
+68,55,25.42,234.32,11,1,Monthly,Basic,Debit Card,0
+40,45,71.69,202.44,1,5,Two-Year,Standard,Credit Card,0
+32,8,119.1,230.48,8,0,Monthly,Basic,Debit Card,1
+45,53,79.14,92.95,10,0,Monthly,Standard,UPI,0
+51,55,54.74,148.12,4,4,Monthly,Standard,Debit Card,1
+19,32,48.57,239.16,6,4,Two-Year,Basic,UPI,1
+49,51,37.1,70.53,11,3,Monthly,Standard,UPI,1
+40,44,131.43,68.58,4,5,Yearly,Basic,Debit Card,1
+39,70,94.8,165.76,6,0,Yearly,Standard,,0
+68,18,29.93,157.55,3,0,Yearly,Basic,UPI,0
+42,22,69.74,85.4,7,0,Monthly,Standard,Credit Card,0
+39,37,67.81,90.12,10,0,Monthly,Basic,Credit Card,0
+39,56,43.63,84.08,9,2,Monthly,Standard,UPI,1
+66,59,76.62,231.68,10,5,Yearly,Standard,Bank Transfer,0
+69,3,63.17,195.92,9,1,Yearly,Standard,Debit Card,1
+59,28,,249.89,6,1,Yearly,Basic,UPI,1
+23,35,116.07,292.67,9,3,Yearly,Premium,Debit Card,0
+32,61,49.02,142.78,4,2,Monthly,Standard,Credit Card,0
+60,54,103.44,20.94,10,0,Two-Year,Standard,Debit Card,0
+54,63,,15.38,5,0,Yearly,Basic,UPI,1
+50,7,93.85,89.4,4,4,Monthly,Standard,UPI,0
+25,49,106.19,279.83,6,4,Monthly,Standard,UPI,1
+61,31,91.29,157.44,11,3,Yearly,Standard,UPI,1
+61,58,134.3,82.26,1,0,Two-Year,Standard,Bank Transfer,0
+22,61,107.83,120.35,4,3,Monthly,Premium,Bank Transfer,0
+56,24,91.11,179.98,9,2,Yearly,Premium,Bank Transfer,0
+21,20,127.87,196.23,2,1,Monthly,Standard,UPI,0
+23,37,98.8,47.02,8,0,Monthly,Standard,Bank Transfer,0
+62,4,57.85,293.13,5,5,Yearly,Standard,Debit Card,0
+49,20,46.92,163.89,9,2,Yearly,Premium,UPI,0
+69,60,39.8,,2,0,Yearly,Premium,Credit Card,0
+47,24,,268.2,6,5,Monthly,Basic,UPI,0
+64,50,112.32,23.32,3,4,Monthly,Basic,Debit Card,0
+52,49,141.86,272.41,2,3,Monthly,Standard,Bank Transfer,1
+57,51,98.43,298.97,7,4,Monthly,Standard,UPI,0
+69,36,81.54,,3,1,Monthly,Premium,Bank Transfer,0
+33,66,27.76,231.36,10,4,Monthly,Standard,,1
+30,34,107.31,101.85,0,0,Monthly,Standard,Debit Card,0
+67,36,95.69,282.53,5,5,Monthly,Premium,UPI,1
+59,6,148.73,159.38,9,4,Yearly,Premium,Bank Transfer,1
+47,39,51.09,219.98,10,0,Monthly,Premium,Bank Transfer,0
+36,42,89.0,277.31,10,1,Monthly,Premium,Debit Card,1
+34,58,104.62,292.58,0,5,Yearly,Basic,UPI,0
+36,12,103.8,250.13,4,4,Monthly,Premium,Credit Card,0
+45,3,92.97,91.6,6,3,Yearly,Premium,UPI,1
+43,18,121.0,290.0,5,3,Monthly,Standard,Debit Card,1
+54,40,46.65,188.81,1,5,Monthly,Standard,Credit Card,1
+43,21,114.33,279.26,10,3,Monthly,Standard,Debit Card,1
+40,15,100.57,203.16,3,4,Monthly,Basic,UPI,0
+26,26,136.49,92.86,10,4,Yearly,Premium,Credit Card,0
+29,8,130.14,111.64,1,5,Two-Year,Premium,Debit Card,1
+18,42,60.97,165.59,10,4,Monthly,Basic,Bank Transfer,0
+18,44,55.91,237.21,0,0,Monthly,Premium,Credit Card,0
+64,14,147.61,96.08,2,1,Yearly,Standard,Credit Card,1
+51,2,88.54,174.34,2,3,Monthly,Basic,Debit Card,0
+49,37,137.83,104.34,11,0,Yearly,Premium,Bank Transfer,0
+65,69,41.3,244.92,6,5,Monthly,Basic,Credit Card,0
+42,38,103.57,140.55,0,3,Two-Year,Basic,Debit Card,1
+57,41,125.28,23.94,8,0,Monthly,Premium,Credit Card,1
+62,62,143.16,50.65,10,4,Monthly,Standard,Credit Card,1
+18,60,63.85,19.27,5,5,Two-Year,Premium,,1
+33,14,114.25,150.29,3,5,Yearly,Premium,Bank Transfer,0
+56,2,90.05,32.79,2,3,Monthly,Standard,UPI,1
+22,70,27.88,35.13,2,4,Yearly,Premium,UPI,0
+39,17,109.7,282.37,1,3,Yearly,Premium,Bank Transfer,1
+46,28,109.71,261.92,1,2,Monthly,Premium,Bank Transfer,1
+20,66,140.98,136.17,11,0,Yearly,Basic,Debit Card,0
+29,35,84.65,295.76,9,2,Monthly,Basic,Credit Card,1
+43,5,49.93,1.06,4,0,Yearly,Basic,Bank Transfer,0
+33,65,25.79,184.58,8,1,Two-Year,Premium,Debit Card,1
+68,40,74.03,185.31,1,5,Monthly,Standard,UPI,1
+54,56,59.25,137.78,1,3,Monthly,Basic,UPI,0
+39,36,118.94,119.69,11,1,Monthly,Standard,UPI,0
+46,45,66.05,137.16,5,1,Monthly,Premium,UPI,1
+31,23,143.38,125.07,9,5,Two-Year,Basic,Debit Card,1
+45,47,,219.42,1,5,Monthly,Premium,Credit Card,0
+22,31,100.72,41.47,11,0,Monthly,Standard,Debit Card,0
+64,11,140.73,60.09,3,2,Yearly,Basic,Credit Card,0
+66,10,118.91,54.97,5,4,Two-Year,Basic,UPI,1
+47,67,91.09,79.48,4,0,Monthly,Basic,Bank Transfer,0
+63,14,43.44,158.05,0,4,Yearly,Basic,Bank Transfer,1
+69,10,79.62,34.25,5,1,Yearly,Standard,Bank Transfer,1
+22,1,92.91,260.58,0,4,Two-Year,Basic,Credit Card,0
+29,5,132.32,89.91,2,2,Yearly,Premium,UPI,1
+33,20,82.57,49.6,9,0,Yearly,Basic,Debit Card,1
+43,8,136.7,203.01,4,5,Monthly,Standard,Bank Transfer,1
+43,43,107.67,12.39,9,2,Monthly,Basic,Credit Card,1
+65,1,37.81,186.37,4,2,Yearly,Standard,Bank Transfer,0
+38,57,,209.76,9,0,Two-Year,Standard,Debit Card,0
+56,64,88.54,65.26,5,5,Two-Year,Premium,UPI,1
+53,28,70.94,13.55,11,2,Two-Year,Basic,Debit Card,1
+50,37,105.68,109.73,9,5,Monthly,Basic,UPI,0
+47,47,34.16,30.48,7,3,Yearly,Basic,UPI,0
+54,37,102.75,,4,3,Yearly,Premium,UPI,1
+40,49,84.77,77.02,10,3,Yearly,Premium,Bank Transfer,0
+27,44,72.87,89.34,0,4,Monthly,Standard,Debit Card,0
+22,56,143.89,159.46,4,2,Monthly,Standard,Bank Transfer,1
+53,28,87.93,203.84,2,0,Two-Year,Standard,Debit Card,1
+51,6,48.49,178.24,3,0,Monthly,Premium,Credit Card,1
+69,61,79.67,45.36,7,4,Two-Year,Premium,Credit Card,0
+48,20,139.52,52.45,6,0,Monthly,Premium,Debit Card,1
+27,2,42.89,263.75,10,3,Yearly,Standard,Debit Card,0
+36,37,47.81,167.95,4,2,Yearly,Premium,Debit Card,1
+49,20,21.69,261.11,1,0,Yearly,Standard,Debit Card,0
+18,26,21.84,112.09,5,0,Monthly,Standard,UPI,0
+22,29,127.82,184.71,10,1,Two-Year,Basic,Bank Transfer,0
+62,1,115.18,157.58,5,1,Yearly,Basic,UPI,0
+21,35,,96.42,9,1,Monthly,Basic,Bank Transfer,1
+33,70,110.78,141.5,9,2,Yearly,Standard,Bank Transfer,0
+41,59,71.38,151.24,10,3,Monthly,Basic,Bank Transfer,1
+33,69,143.88,61.03,5,5,Monthly,Basic,UPI,0
+19,33,145.72,95.19,8,3,Monthly,Basic,Debit Card,1
+66,51,71.06,237.63,10,3,Two-Year,Premium,UPI,1
+45,12,131.05,274.82,7,2,Monthly,Standard,UPI,1
+49,20,120.5,108.58,7,2,Yearly,Basic,Bank Transfer,1
+44,53,60.3,92.78,0,1,Monthly,Premium,Credit Card,0
+37,43,50.17,59.36,4,0,Monthly,Premium,Credit Card,0
+41,50,,203.87,6,4,Two-Year,Premium,UPI,0
+29,29,121.58,97.61,5,4,Yearly,Basic,Bank Transfer,1
+67,57,144.82,296.34,4,5,Two-Year,Premium,UPI,1
+52,39,119.27,98.38,7,0,Monthly,Standard,UPI,0
+50,56,131.18,118.85,2,5,Monthly,Premium,Debit Card,1
+50,43,98.4,181.4,5,1,Two-Year,Premium,Bank Transfer,0
+68,50,,240.7,4,5,Yearly,Premium,Credit Card,1
+60,23,121.97,141.39,7,0,Monthly,Premium,Credit Card,1
+54,44,69.01,127.37,3,0,Monthly,Standard,Credit Card,0
+29,38,91.76,298.7,7,4,Yearly,Basic,UPI,0
+20,23,124.62,4.14,9,1,Monthly,Standard,Bank Transfer,0
+18,45,25.99,268.62,1,2,Yearly,Standard,Debit Card,1
+50,52,125.05,45.59,8,5,Monthly,Basic,Credit Card,1
+57,50,43.13,235.99,8,4,Monthly,Premium,Bank Transfer,0
+27,8,86.91,185.76,9,5,Two-Year,Basic,Credit Card,0
+60,1,125.08,103.21,9,5,Monthly,Basic,Debit Card,1
+61,8,53.0,262.29,5,2,Monthly,Standard,Bank Transfer,1
+46,29,51.95,4.86,3,1,Yearly,Basic,UPI,0
+30,5,72.36,68.78,3,0,Monthly,Premium,UPI,0
+29,47,136.3,170.5,5,3,Monthly,Standard,Credit Card,0
+48,34,20.06,106.11,4,5,Yearly,Premium,Credit Card,0
+63,65,137.18,183.5,5,3,Monthly,Standard,Bank Transfer,1
+19,55,39.99,8.21,6,1,Monthly,Premium,Debit Card,0
+68,43,148.71,35.82,6,3,Monthly,Basic,Credit Card,0
+67,30,144.13,39.0,8,5,Yearly,Basic,Bank Transfer,0
+52,17,84.31,57.6,7,2,Yearly,Basic,Debit Card,0
+40,26,86.65,138.34,5,3,Yearly,Premium,Credit Card,0
+34,8,82.6,225.89,11,1,Monthly,Standard,Credit Card,1
+43,47,102.61,271.76,5,1,Yearly,Standard,,1
+25,72,31.79,,4,2,Two-Year,Standard,Credit Card,1
+46,46,24.24,59.87,0,3,Monthly,Basic,UPI,1
+43,68,27.5,132.9,8,3,Yearly,Premium,Debit Card,1
+27,33,77.77,60.62,8,0,Yearly,Standard,,1
+43,1,55.82,80.08,8,4,Two-Year,Premium,UPI,1
+51,19,100.87,151.56,10,1,Two-Year,Standard,Bank Transfer,1
+68,31,149.02,21.36,7,0,Monthly,Basic,UPI,1
+58,14,70.22,66.23,9,1,Monthly,Premium,UPI,1
+24,53,94.6,280.68,2,0,Monthly,Standard,Debit Card,1
+21,48,74.03,140.37,0,4,Monthly,Standard,Bank Transfer,0
+67,69,130.15,134.17,10,0,Monthly,Standard,Credit Card,0
+62,62,137.29,5.36,11,1,Yearly,Standard,UPI,0
+28,66,134.06,74.97,11,3,Monthly,Basic,UPI,0
+46,64,146.67,260.02,7,1,Monthly,Standard,Bank Transfer,0
+53,70,23.58,50.22,6,5,Yearly,Standard,UPI,0
+42,63,129.18,125.12,4,2,Monthly,Basic,Bank Transfer,0
+38,33,117.73,5.28,9,2,Two-Year,Standard,Credit Card,0
+53,41,49.73,144.02,6,5,Yearly,Premium,Bank Transfer,0
+27,48,144.32,7.29,9,2,Monthly,Premium,Credit Card,1
+54,13,39.26,246.06,3,2,Monthly,Standard,Bank Transfer,0
+26,31,108.34,247.63,8,4,Monthly,Basic,UPI,1
+41,68,49.24,236.53,10,3,Yearly,Basic,Credit Card,0
+52,4,76.08,85.73,9,3,Monthly,Basic,UPI,0
+66,19,113.49,251.33,1,1,Yearly,Standard,Credit Card,0
+52,70,93.23,163.36,8,5,Yearly,Standard,Bank Transfer,0
+65,13,75.58,112.77,8,0,Monthly,Premium,Bank Transfer,1
+53,23,62.42,187.97,4,1,Two-Year,Basic,Bank Transfer,0
+35,1,129.16,4.69,10,1,Monthly,Standard,Debit Card,1
+66,54,38.7,43.75,0,1,Two-Year,Standard,Debit Card,1
+56,71,75.91,222.95,6,1,Monthly,Standard,Credit Card,0
+49,15,137.49,74.0,9,3,Yearly,Basic,Debit Card,1
+41,65,129.96,179.8,9,0,Monthly,Basic,Bank Transfer,1
+40,71,72.12,116.15,3,1,Yearly,Premium,Debit Card,0
+49,15,119.2,,8,3,Monthly,Basic,Debit Card,1
+54,21,127.01,285.77,5,1,Monthly,Standard,UPI,0
+29,19,135.56,265.19,2,2,Yearly,Premium,Credit Card,1
+66,60,90.79,81.92,5,1,Monthly,Basic,Credit Card,1
+30,33,46.58,59.05,9,5,Yearly,Basic,Credit Card,0
+40,49,53.19,142.86,5,5,Two-Year,Basic,Debit Card,1
+42,35,58.44,3.19,4,1,Monthly,Basic,Bank Transfer,0
+52,44,97.19,,1,4,Monthly,Standard,,0
+58,11,24.27,166.43,9,2,Monthly,Basic,Credit Card,0
+47,72,102.69,156.61,9,0,Yearly,Standard,Debit Card,0
+34,66,67.37,298.38,1,1,Monthly,Standard,Bank Transfer,0
+66,46,58.38,61.35,6,0,Monthly,Standard,UPI,0
+37,9,134.33,78.17,1,2,Monthly,Premium,UPI,0
+65,3,79.8,34.95,11,1,Monthly,Standard,Credit Card,1
+42,26,32.36,275.35,5,4,Two-Year,Basic,Credit Card,0
+39,72,127.48,233.57,4,3,Monthly,Premium,Bank Transfer,0
+30,48,26.19,246.88,3,4,Yearly,Basic,Debit Card,0
+36,66,114.48,270.93,6,4,Yearly,Standard,Bank Transfer,0
+66,70,120.61,,7,3,Yearly,Basic,Credit Card,0
+53,28,65.84,135.91,3,3,Monthly,Premium,Bank Transfer,0
+29,26,127.22,99.79,0,5,Yearly,Premium,Debit Card,0
+58,25,87.04,177.18,0,3,Two-Year,Basic,UPI,1
+36,12,80.23,136.83,0,1,Monthly,Basic,UPI,1
+29,5,25.9,136.02,10,0,Monthly,Basic,UPI,0
+26,48,57.7,281.14,0,5,Monthly,Premium,UPI,0
+24,37,141.03,295.23,4,5,Monthly,Standard,Credit Card,1
+45,44,70.94,239.15,3,0,Monthly,Basic,Credit Card,1
+31,15,91.07,227.27,8,5,Yearly,Standard,Debit Card,1
+48,43,89.16,204.49,2,3,Monthly,Premium,Debit Card,0
+69,48,96.76,50.66,6,4,Monthly,Basic,Debit Card,0
+36,70,27.97,18.67,10,2,Yearly,Basic,Debit Card,0
+64,46,67.08,207.53,7,3,Monthly,Premium,Bank Transfer,1
+33,43,114.01,218.91,5,4,Yearly,Basic,Debit Card,1
+22,21,46.07,15.04,11,4,Monthly,Standard,UPI,1
+52,23,46.47,278.49,9,5,Two-Year,Premium,UPI,1
+29,47,21.31,28.25,0,1,Monthly,Premium,UPI,0
+42,15,76.87,86.48,7,1,Yearly,Basic,Bank Transfer,0
+69,25,134.76,202.04,9,5,Yearly,Premium,Debit Card,1
+38,36,26.75,51.79,2,5,Monthly,Basic,UPI,1
+53,51,44.85,17.57,7,0,Monthly,Basic,UPI,1
+40,15,60.31,100.01,11,0,Yearly,Premium,UPI,1
+33,68,115.12,230.03,3,2,Monthly,Basic,UPI,1
+56,21,103.28,124.69,7,2,Two-Year,Standard,Credit Card,1
+62,13,74.07,196.24,10,2,Two-Year,Standard,Debit Card,1
+59,19,118.68,174.31,0,2,Monthly,Basic,Debit Card,0
+56,34,99.25,7.64,2,4,Monthly,Standard,Bank Transfer,0
+31,68,136.49,,5,4,Monthly,Basic,Credit Card,0
+48,52,126.34,13.39,8,0,Monthly,Standard,Bank Transfer,1
+22,27,52.87,290.37,1,1,Yearly,Premium,UPI,0
+52,29,55.29,165.41,10,5,Yearly,Basic,Bank Transfer,0
+40,28,36.3,288.98,0,1,Monthly,Basic,UPI,1
+46,35,63.81,35.31,9,3,Monthly,Basic,UPI,1
+60,8,149.94,147.63,2,4,Monthly,Basic,Debit Card,1
+28,16,72.75,51.68,3,2,Monthly,Basic,Debit Card,1
+35,36,48.66,16.24,10,2,Yearly,Basic,Debit Card,1
+64,30,119.12,185.64,4,3,Monthly,Premium,Debit Card,0
+29,18,90.52,,2,1,Yearly,Premium,Debit Card,0
+26,2,39.45,176.72,9,2,Yearly,Standard,Credit Card,1
+27,49,69.49,34.6,10,1,Yearly,Basic,Debit Card,0
+61,4,73.88,100.26,1,5,Monthly,Standard,Bank Transfer,0
+34,7,118.0,234.71,1,3,Yearly,Standard,UPI,1
+55,39,22.69,131.68,6,1,Yearly,Premium,Debit Card,0
+24,13,54.97,188.7,8,5,Yearly,Standard,Credit Card,1
+63,31,87.29,194.59,9,1,Monthly,Premium,Bank Transfer,1
+30,71,54.95,253.28,1,1,Monthly,Standard,Bank Transfer,0
+57,63,101.7,98.15,6,2,Yearly,Basic,UPI,1
+59,56,82.64,206.5,6,0,Monthly,Standard,Bank Transfer,1
+26,42,67.02,288.52,10,4,Monthly,Premium,Bank Transfer,1
+67,61,143.4,219.34,6,1,Two-Year,Premium,Bank Transfer,0
+44,42,102.18,147.47,2,1,Monthly,Premium,,0
+19,56,36.89,189.58,11,1,Monthly,Standard,Credit Card,1
+22,36,92.81,,6,0,Monthly,Standard,UPI,0
+46,68,121.5,184.07,0,5,Yearly,Premium,Debit Card,1
+54,7,112.1,5.99,9,3,Monthly,Basic,Bank Transfer,1
+55,54,,59.24,0,2,Yearly,Basic,Credit Card,0
+36,1,146.41,243.33,4,0,Monthly,Standard,UPI,0
+25,44,78.35,82.52,1,5,Monthly,Standard,Debit Card,0
+65,45,40.67,219.74,8,1,Yearly,Premium,UPI,0
+62,47,,112.26,6,5,Monthly,Standard,Credit Card,1
+18,13,32.77,157.04,3,0,Two-Year,Standard,Credit Card,0
+39,22,124.46,21.32,3,0,Monthly,Premium,Credit Card,1
+69,21,35.86,55.19,1,0,Monthly,Premium,Bank Transfer,0
+34,9,36.27,287.2,4,3,Monthly,Standard,Credit Card,1
+24,26,130.56,267.15,3,4,Monthly,Basic,Debit Card,1
+42,9,64.8,196.03,11,2,Two-Year,Standard,Bank Transfer,1
+62,15,24.01,138.43,0,3,Two-Year,Basic,UPI,1
+21,10,26.75,203.05,11,3,Monthly,Basic,Debit Card,0
+53,42,38.48,185.96,7,4,Yearly,Basic,Bank Transfer,0
+23,72,47.74,171.0,2,3,Yearly,Premium,Credit Card,0
+48,24,106.47,18.69,5,0,Monthly,Premium,UPI,0
+36,49,40.45,190.21,3,0,Monthly,Premium,Credit Card,0
+61,26,35.45,230.91,8,5,Two-Year,Standard,Debit Card,1
+56,37,119.41,298.23,6,1,Two-Year,Premium,Debit Card,1
+44,68,107.24,4.31,8,3,Two-Year,Premium,Bank Transfer,1
+27,50,76.59,219.32,9,1,Yearly,Standard,Debit Card,1
+43,24,91.41,171.97,2,2,Yearly,Standard,UPI,1
+36,19,60.56,130.78,0,0,Monthly,Basic,Bank Transfer,1
+56,60,82.73,39.14,4,5,Monthly,Standard,UPI,1
+20,39,85.87,123.32,2,2,Monthly,Standard,Credit Card,1
+62,18,70.34,106.96,5,5,Yearly,Premium,UPI,0
+30,19,137.85,91.55,7,4,Yearly,Basic,UPI,1
+67,36,22.09,219.53,10,0,Yearly,Basic,Debit Card,0
+45,55,121.68,210.52,3,2,Two-Year,Standard,Credit Card,0
+37,69,36.17,177.12,4,4,Two-Year,Premium,Debit Card,0
+45,47,123.68,281.66,4,2,Two-Year,Premium,Credit Card,1
+25,49,100.07,105.61,3,5,Monthly,Premium,,1
+58,33,129.63,73.9,3,4,Yearly,Premium,UPI,1
+56,21,32.68,,3,4,Yearly,Standard,Debit Card,1
+18,22,,60.45,3,0,Monthly,Premium,UPI,1
+20,48,,95.19,3,1,Two-Year,Basic,UPI,0
+30,37,111.81,68.16,4,5,Two-Year,Basic,UPI,0
+45,15,89.46,21.68,1,5,Monthly,Standard,Credit Card,1
+66,35,90.3,248.42,1,4,Monthly,Premium,Debit Card,1
+42,71,75.85,77.11,8,4,Yearly,Premium,Debit Card,1
+50,32,60.15,142.44,1,0,Yearly,Premium,UPI,0
+55,11,82.69,13.95,5,1,Two-Year,Premium,Credit Card,1
+23,10,35.4,210.1,1,5,Monthly,Standard,Debit Card,0
+61,57,145.0,99.84,4,3,Monthly,Premium,Bank Transfer,0
+62,25,112.87,223.68,3,3,Monthly,Standard,Debit Card,1
+49,2,143.82,124.31,11,1,Monthly,Premium,UPI,1
+62,64,49.47,59.53,6,2,Monthly,Premium,Bank Transfer,0
+64,35,134.31,154.44,6,0,Two-Year,Basic,Credit Card,1
+38,7,125.14,40.02,5,1,Monthly,Standard,Bank Transfer,1
+33,18,108.03,132.72,9,3,Monthly,Basic,Bank Transfer,1
+38,67,101.25,95.87,4,4,Monthly,Standard,UPI,1
+28,42,61.15,273.68,0,3,Monthly,Premium,Debit Card,0
+54,39,126.13,19.22,11,4,Yearly,Premium,Credit Card,0
+53,41,85.2,208.51,2,0,Yearly,Standard,Bank Transfer,0
+52,24,29.22,55.64,8,4,Yearly,Basic,UPI,0
+36,60,60.67,96.39,0,1,Monthly,Standard,Debit Card,0
+37,46,141.59,125.24,4,4,Monthly,Standard,Bank Transfer,0
+35,19,130.59,272.5,1,2,Monthly,Premium,UPI,0
+64,68,147.65,73.53,3,1,Monthly,Basic,UPI,1
+58,42,101.64,28.3,10,0,Yearly,Standard,UPI,1
+66,32,52.18,96.29,0,1,Monthly,Basic,Credit Card,0
+31,39,41.17,32.3,2,2,Yearly,Basic,Debit Card,0
+32,36,44.3,39.45,9,0,Monthly,Standard,Bank Transfer,0
+48,36,22.57,172.58,6,3,Yearly,Basic,Debit Card,0
+18,3,70.79,19.21,9,2,Two-Year,Premium,Debit Card,1
+20,8,44.89,10.25,2,0,Yearly,Premium,Bank Transfer,0
+33,70,73.52,214.61,3,4,Yearly,Premium,Debit Card,1
+40,41,141.55,109.13,1,1,Two-Year,Premium,Credit Card,1
+28,68,75.97,38.49,2,0,Yearly,Basic,Bank Transfer,0
+29,13,134.14,76.83,8,1,Monthly,Premium,Bank Transfer,1
+27,49,98.72,192.98,2,4,Monthly,Standard,UPI,0
+49,60,52.13,83.39,10,0,Yearly,Premium,Debit Card,0
+33,2,66.26,148.86,4,3,Yearly,Standard,Bank Transfer,0
+25,60,30.91,37.39,1,2,Monthly,Standard,Bank Transfer,0
+55,5,63.35,176.84,3,0,Monthly,Premium,Credit Card,0
+29,44,108.08,95.51,11,4,Two-Year,Premium,UPI,1
+41,27,29.37,188.46,6,0,Monthly,Basic,Bank Transfer,0
+45,32,46.7,242.71,6,1,Monthly,Standard,Credit Card,0
+25,21,69.59,183.88,11,5,Monthly,Premium,Bank Transfer,1
+45,8,147.67,89.43,2,0,Yearly,Basic,Bank Transfer,1
+53,72,122.03,77.47,4,3,Monthly,Premium,Bank Transfer,0
+43,50,115.35,98.9,0,0,Yearly,Premium,Credit Card,1
+25,67,35.1,50.22,9,2,Monthly,Premium,Debit Card,0
+67,44,121.53,55.17,9,0,Yearly,Standard,Bank Transfer,1
+45,58,122.08,237.42,9,5,Yearly,Premium,Bank Transfer,0
+45,3,98.14,116.04,10,1,Monthly,Basic,,0
+54,70,148.75,131.36,0,0,Monthly,Premium,Bank Transfer,0
+58,2,62.28,178.62,4,3,Monthly,Premium,UPI,1
+53,44,142.37,177.31,9,4,Monthly,Basic,Bank Transfer,0
+44,2,138.92,21.15,8,0,Yearly,Basic,UPI,0
+34,35,21.49,249.63,0,0,Monthly,Standard,Debit Card,0
+26,30,78.52,54.02,0,2,Yearly,Standard,Credit Card,0
+50,8,147.02,217.2,3,3,Monthly,Standard,Debit Card,1
+37,22,33.41,232.03,3,5,Monthly,Standard,Bank Transfer,0
+30,44,91.21,214.75,1,4,Monthly,Basic,UPI,0
+45,58,147.26,174.11,8,1,Yearly,Premium,Credit Card,1
+65,36,92.21,5.37,8,0,Monthly,Premium,Bank Transfer,1
+46,69,44.68,108.75,1,5,Yearly,Premium,Credit Card,1
+30,31,95.68,181.85,8,4,Monthly,Standard,Credit Card,1
+63,47,46.58,116.85,5,1,Monthly,Basic,Bank Transfer,0
+52,55,87.56,259.18,7,5,Yearly,Basic,Debit Card,1
+23,62,,93.33,9,3,Yearly,Basic,Bank Transfer,0
+35,30,98.71,88.77,3,3,Monthly,Premium,Bank Transfer,0
+68,55,87.18,80.53,1,4,Yearly,Standard,Debit Card,1
+22,16,116.22,100.5,1,1,Monthly,Basic,UPI,0
+64,12,101.99,167.66,8,3,Yearly,Standard,Bank Transfer,0
+42,17,,212.4,0,4,Two-Year,Basic,Credit Card,0
+19,16,109.67,199.11,11,3,Two-Year,Standard,Bank Transfer,1
+27,12,38.71,242.51,6,3,Yearly,Basic,Bank Transfer,1
+47,8,97.4,265.89,10,5,Monthly,Standard,Credit Card,1
+67,3,42.37,245.01,2,5,Yearly,Basic,Debit Card,0
+62,16,140.32,6.66,2,3,Monthly,Basic,UPI,0
+22,30,28.88,221.04,1,2,Monthly,Standard,UPI,0
+50,23,75.95,63.31,9,5,Monthly,Standard,Credit Card,1
+18,5,110.45,40.75,5,1,Two-Year,Premium,Debit Card,1
+35,65,79.54,191.91,9,4,Two-Year,Standard,Bank Transfer,0
+49,30,31.97,96.6,1,4,Monthly,Basic,Bank Transfer,1
+64,21,91.94,18.08,9,1,Yearly,Basic,Bank Transfer,0
+66,70,103.41,42.15,3,1,Yearly,Standard,Bank Transfer,0
+28,22,111.49,1.28,9,1,Monthly,Premium,Bank Transfer,1
+38,72,68.52,271.06,8,1,Monthly,Standard,Credit Card,1
+43,32,,8.36,8,0,Yearly,Basic,Bank Transfer,1
+42,33,78.59,63.63,5,4,Monthly,Basic,Bank Transfer,1
+39,16,107.37,125.46,3,0,Monthly,Premium,Debit Card,1
+44,38,95.86,107.61,6,3,Yearly,Standard,Bank Transfer,1
+66,14,88.35,273.61,0,3,Two-Year,Basic,UPI,1
+30,36,52.44,13.05,11,4,Yearly,Basic,Credit Card,1
+50,23,20.26,154.15,3,3,Yearly,Basic,Credit Card,0
+51,66,42.63,204.46,4,1,Monthly,Standard,,1
+58,2,35.22,279.58,7,0,Monthly,Standard,UPI,0
+52,65,78.38,186.49,11,1,Yearly,Premium,Bank Transfer,0
+18,67,99.59,241.32,1,3,Monthly,Basic,Credit Card,0
+38,52,47.7,26.03,11,5,Two-Year,Basic,UPI,0
+65,62,142.08,116.4,4,0,Monthly,Premium,Debit Card,1
+23,23,20.87,112.81,5,1,Monthly,Basic,Bank Transfer,0
+45,26,120.4,266.0,4,4,Monthly,Premium,UPI,0
+34,68,101.28,46.26,8,1,Two-Year,Premium,Bank Transfer,0
+22,55,68.56,46.41,9,5,Monthly,Basic,Debit Card,1
+48,6,26.56,99.24,0,3,Monthly,Standard,UPI,1
+22,35,101.57,17.29,2,0,Monthly,Standard,Bank Transfer,1
+55,22,70.13,55.55,1,4,Yearly,Standard,UPI,0
+20,43,141.71,289.6,11,0,Monthly,Standard,Credit Card,0
+40,15,90.46,129.03,2,4,Monthly,Basic,Bank Transfer,1
+54,60,142.15,189.97,9,0,Monthly,Premium,UPI,0
+54,12,48.66,218.11,8,3,Yearly,Premium,Credit Card,0
+27,49,114.34,110.72,8,4,Monthly,Basic,Debit Card,1
+27,42,100.24,45.02,9,2,Monthly,Standard,Bank Transfer,0
+36,38,,62.77,1,0,Monthly,Premium,Bank Transfer,0
+34,45,47.91,94.67,2,0,Yearly,Basic,Debit Card,1
+38,35,106.45,191.18,3,1,Yearly,Basic,Credit Card,0
+31,30,84.75,120.09,8,4,Monthly,Standard,Debit Card,1
+26,30,116.57,3.04,2,5,Two-Year,Basic,Bank Transfer,0
+63,6,62.52,157.5,6,2,Two-Year,Premium,UPI,0
+18,67,135.71,276.53,11,3,Monthly,Premium,Credit Card,0
+68,7,30.96,243.81,2,1,Yearly,Basic,Credit Card,0
+62,52,124.93,247.74,6,2,Yearly,Premium,Credit Card,1
+30,14,131.97,238.72,6,4,Two-Year,Basic,Debit Card,1
+21,15,126.24,97.8,8,2,Monthly,Premium,Debit Card,1
+18,21,86.65,229.79,1,0,Monthly,Standard,UPI,1
+66,35,76.99,43.81,5,0,Monthly,Premium,UPI,0
+57,66,149.51,197.66,8,1,Two-Year,Standard,Credit Card,1
+49,2,49.79,192.83,11,4,Monthly,Standard,UPI,1
+51,35,91.09,8.65,11,4,Monthly,Basic,Debit Card,1
+45,20,107.19,236.6,1,2,Monthly,Standard,UPI,0
+48,10,111.11,271.07,1,1,Monthly,Premium,Debit Card,0
+25,25,46.52,80.96,4,4,Yearly,Premium,UPI,1
+56,66,105.02,243.9,9,5,Monthly,Standard,Bank Transfer,1
+43,25,126.39,25.64,9,5,Monthly,Basic,Debit Card,1
+51,54,26.5,180.39,11,0,Two-Year,Standard,Bank Transfer,1
+20,33,138.5,146.21,9,2,Monthly,Premium,Debit Card,1
+67,36,23.84,164.23,7,3,Yearly,Premium,UPI,0
+29,14,66.28,277.94,10,0,Monthly,Standard,Bank Transfer,0
+18,65,22.06,261.52,8,1,Monthly,Standard,UPI,0
+61,54,30.03,235.74,1,4,Yearly,Standard,Debit Card,0
+22,52,138.45,82.84,4,0,Yearly,Premium,Bank Transfer,0
+47,3,66.13,273.63,6,3,Monthly,Premium,Credit Card,0
+47,41,75.22,30.15,5,3,Two-Year,Premium,UPI,0
+34,6,47.99,256.15,5,5,Two-Year,Basic,Debit Card,1
+65,25,,99.12,6,1,Two-Year,Premium,Bank Transfer,1
+64,13,97.32,17.08,2,0,Monthly,Premium,UPI,1
+40,8,68.39,201.14,2,2,Monthly,Basic,Bank Transfer,0
+32,21,63.29,70.15,9,0,Yearly,Basic,UPI,0
+54,68,135.05,73.83,8,5,Yearly,Basic,UPI,1
+38,25,69.83,92.51,7,3,Monthly,Basic,UPI,1
+31,68,84.16,20.04,4,1,Yearly,Basic,Bank Transfer,0
+19,45,,53.96,5,1,Monthly,Basic,Bank Transfer,0
+28,60,122.28,2.54,10,2,Monthly,Standard,UPI,0
+68,12,71.67,134.18,11,1,Monthly,Standard,Credit Card,0
+56,32,86.77,26.19,9,5,Yearly,Standard,Credit Card,1
+55,13,52.94,205.11,0,5,Monthly,Standard,Credit Card,0
+51,31,148.4,71.45,9,5,Yearly,Premium,Debit Card,1
+55,20,57.89,283.13,11,1,Yearly,Basic,Credit Card,0
+67,18,120.2,261.5,0,1,Yearly,Premium,Bank Transfer,1
+51,60,75.57,87.54,3,5,Two-Year,Basic,Credit Card,0
+35,63,46.81,235.18,1,1,Yearly,Basic,Bank Transfer,0
+47,6,123.96,241.17,10,1,Two-Year,Premium,Debit Card,1
+32,32,63.37,295.98,6,3,Monthly,Standard,Bank Transfer,0
+44,43,132.48,179.75,1,0,Monthly,Premium,Bank Transfer,1
+68,2,138.98,25.51,9,4,Monthly,Premium,Bank Transfer,1
+51,60,131.78,194.4,1,1,Monthly,Basic,Credit Card,1
+69,23,24.55,187.87,4,4,Yearly,Basic,UPI,0
+55,31,122.36,191.87,3,4,Monthly,Basic,Bank Transfer,1
+50,5,73.47,92.84,7,3,Monthly,Standard,Credit Card,0
+41,34,133.58,258.04,3,1,Yearly,Premium,Credit Card,0
+32,10,102.93,287.88,11,5,Yearly,Premium,Credit Card,1
+47,2,128.37,66.1,5,4,Monthly,Standard,UPI,1
+59,11,84.93,27.36,4,1,Yearly,Premium,UPI,1
+68,50,89.55,59.17,10,2,Monthly,Premium,,0
+34,31,38.77,246.35,1,5,Monthly,Basic,,1
+22,56,121.92,203.32,10,2,Yearly,Standard,Debit Card,1
+46,9,74.52,191.18,11,2,Yearly,Basic,UPI,0
+21,21,85.01,121.14,7,4,Monthly,Standard,UPI,1
+27,28,122.06,173.77,1,2,Two-Year,Basic,,0
+34,62,97.85,93.05,8,3,Monthly,Premium,Bank Transfer,0
+27,7,46.14,143.68,8,3,Monthly,Standard,Bank Transfer,1
+34,16,96.73,238.13,2,4,Monthly,Standard,UPI,1
+37,4,72.99,,3,1,Yearly,Basic,Debit Card,0
+41,4,81.04,279.81,7,0,Yearly,Standard,Bank Transfer,0
+22,40,23.68,280.23,8,1,Monthly,Premium,Credit Card,1
+51,17,47.3,121.26,2,1,Monthly,Premium,Bank Transfer,0
+23,52,56.53,141.17,4,1,Yearly,Premium,Credit Card,0
+19,52,112.68,211.98,10,1,Monthly,Basic,Bank Transfer,1
+30,36,21.49,276.74,7,5,Monthly,Standard,UPI,0
+60,38,73.14,43.46,2,0,Yearly,Basic,Bank Transfer,1
+60,50,140.12,91.97,6,5,Monthly,Premium,UPI,0
+65,63,34.54,42.63,10,2,Two-Year,Standard,UPI,0
+28,63,87.14,183.99,7,1,Monthly,Premium,Bank Transfer,1
+68,62,122.25,92.58,9,3,Yearly,Standard,Credit Card,1
+64,7,142.53,98.51,10,4,Monthly,Standard,Credit Card,1
+40,27,117.08,22.2,2,4,Two-Year,Basic,Bank Transfer,1
+33,14,113.67,105.59,1,5,Monthly,Standard,UPI,1
+48,71,127.44,258.89,9,5,Yearly,Premium,Credit Card,1
+28,5,78.01,70.69,6,3,Yearly,Standard,Debit Card,0
+33,55,124.76,208.86,11,1,Monthly,Premium,UPI,1
+25,2,21.04,189.26,8,0,Monthly,Basic,Bank Transfer,0
+21,62,140.19,259.18,0,2,Yearly,Premium,UPI,0
+57,21,77.63,40.55,2,4,Two-Year,Standard,Debit Card,0
+21,21,91.94,293.3,4,2,Monthly,Premium,Debit Card,0
+42,10,53.13,175.21,2,0,Monthly,Premium,,1
+20,58,116.53,298.65,0,5,Yearly,Standard,Debit Card,1
+49,39,29.96,273.54,6,4,Monthly,Premium,UPI,0
+20,5,133.44,67.23,6,2,Two-Year,Standard,Credit Card,1
+44,65,127.66,17.79,9,5,Yearly,Basic,Debit Card,0
+46,13,48.09,77.44,11,0,Yearly,Premium,Credit Card,0
+49,53,125.21,158.74,7,2,Monthly,Basic,Credit Card,0
+67,45,122.23,52.31,4,1,Monthly,Premium,Bank Transfer,0
+68,32,,51.07,9,5,Yearly,Premium,Credit Card,0
+36,36,68.56,139.32,11,0,Two-Year,Basic,Credit Card,1
+38,60,55.29,10.95,4,2,Two-Year,Premium,Debit Card,1
+22,11,50.13,37.44,4,1,Monthly,Premium,UPI,0
+35,63,61.42,125.34,0,1,Monthly,Basic,UPI,0
+45,21,137.46,19.88,9,0,Monthly,Premium,Debit Card,1
+59,52,30.09,119.63,4,3,Two-Year,Standard,UPI,1
+39,55,127.75,142.73,5,4,Monthly,Premium,Credit Card,0
+38,26,65.36,135.93,11,0,Monthly,Premium,Bank Transfer,1
+23,68,87.81,260.88,0,1,Monthly,Premium,Credit Card,0
+18,34,123.28,159.49,10,1,Monthly,Basic,Credit Card,1
+22,52,134.97,140.93,6,0,Two-Year,Standard,Bank Transfer,1
+58,52,64.82,123.8,0,3,Monthly,Standard,Debit Card,1
+29,29,80.04,245.47,10,4,Monthly,Premium,Credit Card,1
+43,38,73.89,268.62,1,2,Monthly,Basic,Credit Card,0
+63,42,21.72,256.12,1,0,Monthly,Basic,Debit Card,1
+51,21,58.47,202.39,4,4,Monthly,Standard,Credit Card,1
+66,42,79.69,42.07,9,4,Monthly,Basic,Credit Card,1
+31,13,73.44,83.78,6,5,Yearly,Premium,UPI,1
+43,64,113.85,14.77,0,1,Monthly,Premium,Debit Card,1
+62,17,70.02,279.32,9,2,Monthly,Basic,Credit Card,1
+44,9,83.62,198.58,0,0,Monthly,Premium,Credit Card,0
+26,41,75.85,224.16,0,1,Yearly,Standard,Bank Transfer,0
+43,1,116.28,94.16,5,5,Yearly,Premium,Bank Transfer,1
+64,2,132.19,253.85,1,5,Yearly,Basic,Bank Transfer,1
+39,60,89.15,78.62,0,1,Yearly,Standard,Credit Card,0
+64,48,122.63,1.49,5,3,Yearly,Premium,Credit Card,1
+47,29,58.58,113.55,1,4,Monthly,Standard,Bank Transfer,0
+60,10,90.38,171.66,5,0,Two-Year,Basic,UPI,0
+65,58,64.88,144.13,9,0,Monthly,Premium,UPI,1
+34,60,73.85,258.76,7,0,Monthly,Premium,UPI,0
+43,21,115.21,32.52,1,1,Yearly,Standard,UPI,1
+53,28,134.62,166.59,10,3,Monthly,Premium,Debit Card,1
+18,34,35.79,154.38,8,2,Two-Year,Premium,,1
+25,8,102.5,85.14,7,5,Monthly,Premium,Credit Card,1
+66,59,95.68,246.85,11,1,Two-Year,Premium,Bank Transfer,0
+52,72,35.39,226.1,9,2,Yearly,Basic,UPI,0
+69,49,47.55,220.12,0,5,Two-Year,Premium,Credit Card,1
+32,17,60.43,262.98,6,5,Two-Year,Standard,Debit Card,0
+64,60,41.7,217.11,9,3,Two-Year,Basic,Bank Transfer,0
+39,45,51.68,70.32,5,4,Yearly,Standard,Credit Card,0
+31,69,54.79,211.96,5,0,Monthly,Standard,Credit Card,0
+43,32,63.64,93.0,5,2,Monthly,Standard,UPI,1
+45,44,117.42,,5,1,Yearly,Basic,UPI,0
+40,65,94.35,22.83,9,2,Two-Year,Basic,Bank Transfer,0
+31,8,148.21,223.46,6,4,Yearly,Basic,Debit Card,0
+41,72,73.92,213.59,11,0,Two-Year,Premium,Credit Card,0
+19,43,118.0,71.12,2,2,Yearly,Standard,UPI,1
+62,1,133.29,,5,4,Monthly,Basic,Bank Transfer,1
+43,51,108.27,275.43,2,1,Monthly,Standard,UPI,1
+31,24,73.54,33.3,6,3,Monthly,Basic,Bank Transfer,1
+68,24,117.97,70.56,6,5,Monthly,Basic,UPI,1
+24,17,46.48,225.33,7,1,Yearly,Basic,Debit Card,0
+20,5,62.58,83.08,1,0,Two-Year,Standard,Credit Card,0
+64,20,91.07,187.77,8,5,Yearly,Premium,UPI,1
+40,21,94.8,25.27,4,1,Monthly,Basic,Credit Card,1
+63,58,22.88,136.21,8,1,Monthly,Basic,Bank Transfer,0
+60,31,142.86,221.99,9,1,Monthly,Basic,Debit Card,1
+64,11,110.56,206.27,4,1,Monthly,Premium,Credit Card,0
+62,52,84.44,244.71,6,5,Monthly,Standard,UPI,0
+35,15,141.31,263.36,10,0,Monthly,Standard,Credit Card,1
+55,7,77.08,232.18,8,4,Monthly,Standard,Credit Card,1
+52,28,147.46,201.8,3,2,Monthly,Standard,Bank Transfer,0
+68,51,,10.49,1,3,Two-Year,Basic,Debit Card,0
+32,58,34.86,160.96,8,2,Monthly,Premium,Debit Card,0
+42,5,119.42,12.27,1,2,Monthly,Basic,Credit Card,1
+54,5,108.26,242.61,2,3,Monthly,Premium,Credit Card,0
+45,8,120.49,96.9,9,5,Monthly,Standard,Bank Transfer,1
+27,64,143.69,169.17,1,0,Yearly,Premium,Credit Card,0
+56,10,120.94,84.55,2,3,Yearly,Basic,Bank Transfer,0
+34,38,99.47,234.97,5,0,Monthly,Basic,Debit Card,1
+56,8,131.45,266.06,2,5,Yearly,Standard,Debit Card,0
+39,25,107.52,120.19,9,2,Monthly,Basic,Bank Transfer,0
+43,66,73.06,259.01,7,0,Yearly,Basic,Credit Card,0
+61,50,135.13,80.86,10,5,Monthly,Premium,Debit Card,1
+42,67,48.85,160.86,5,5,Monthly,Basic,UPI,1
+34,49,112.9,257.77,6,4,Yearly,Standard,Bank Transfer,0
+30,36,134.6,98.44,0,3,Yearly,Standard,Debit Card,1
+37,68,115.07,286.26,2,4,Yearly,Basic,Debit Card,1
+42,41,110.65,37.44,2,2,Monthly,Standard,Debit Card,0
+21,62,,6.46,1,3,Monthly,Premium,UPI,1
+27,10,80.46,271.34,6,2,Two-Year,Premium,UPI,0
+20,21,133.64,21.53,8,4,Monthly,Basic,UPI,1
+58,36,46.45,297.57,3,5,Monthly,Basic,Credit Card,1
+62,12,36.56,285.47,11,2,Monthly,Premium,Bank Transfer,0
+35,2,57.12,41.97,4,3,Monthly,Standard,Credit Card,0
+64,13,89.11,161.74,2,3,Monthly,Basic,UPI,1
+53,53,86.37,56.29,10,2,Monthly,Basic,Bank Transfer,1
+64,32,126.68,129.02,8,3,Monthly,Standard,Credit Card,0
+39,16,72.59,,3,5,Two-Year,Basic,Credit Card,1
+51,32,82.96,67.95,4,5,Monthly,Standard,Credit Card,1
+64,32,21.74,109.62,0,3,Monthly,Standard,UPI,1
+25,11,73.27,132.16,10,2,Yearly,Standard,Debit Card,0
+57,10,104.21,293.27,11,4,Yearly,Standard,Bank Transfer,1
+66,15,22.02,242.55,1,3,Monthly,Standard,UPI,1
+61,17,56.51,221.49,11,3,Yearly,Premium,Bank Transfer,1
+36,40,47.03,161.58,8,3,Monthly,Standard,UPI,1
+59,18,25.46,252.16,1,3,Yearly,Premium,Credit Card,1
+58,55,82.3,102.46,4,2,Monthly,Standard,Credit Card,0
+54,25,43.62,212.96,7,4,Monthly,Basic,Debit Card,1
+23,59,116.6,298.14,2,4,Two-Year,Premium,Debit Card,0
+69,22,130.23,95.07,5,0,Yearly,Basic,,0
+43,30,90.93,202.53,3,3,Monthly,Standard,Debit Card,1
+51,44,147.62,253.45,10,3,Monthly,Standard,Debit Card,1
+62,32,78.56,274.83,6,0,Monthly,Basic,Bank Transfer,1
+23,51,86.74,215.66,9,4,Yearly,Standard,UPI,0
+54,46,148.6,85.8,2,1,Monthly,Basic,Debit Card,0
+50,21,50.1,98.56,5,5,Monthly,Standard,,1
+39,32,142.53,7.21,11,1,Monthly,Standard,Credit Card,0
+38,39,25.57,228.5,9,4,Yearly,Premium,Debit Card,1
+23,12,78.03,13.78,8,3,Yearly,Basic,Credit Card,1
+23,47,29.1,259.53,10,1,Yearly,Standard,Credit Card,0
+65,18,114.8,36.48,9,2,Monthly,Basic,UPI,1
+21,21,99.09,52.39,0,2,Two-Year,Premium,Bank Transfer,1
+47,13,111.86,143.48,2,0,Yearly,Basic,Debit Card,0
+28,21,68.68,221.63,1,4,Two-Year,Premium,UPI,0
+47,8,68.03,42.56,7,4,Monthly,Basic,Bank Transfer,1
+48,46,25.89,132.58,6,1,Monthly,Basic,Credit Card,0
+41,7,65.49,145.37,1,3,Yearly,Premium,Debit Card,1
+26,23,140.81,64.47,5,4,Monthly,Standard,Credit Card,1
+20,22,69.3,35.55,2,1,Monthly,Standard,Credit Card,0
+68,22,128.08,251.09,7,1,Yearly,Standard,Debit Card,1
+48,29,129.5,151.24,9,5,Yearly,Basic,Bank Transfer,0
+57,13,68.52,5.3,2,5,Two-Year,Basic,Bank Transfer,1
+54,2,102.16,241.09,9,4,Yearly,Standard,Debit Card,1
+53,29,32.4,294.26,8,1,Monthly,Basic,Debit Card,1
+41,52,33.48,182.17,0,0,Monthly,Basic,UPI,0
+48,27,26.33,151.61,4,0,Monthly,Standard,UPI,0
+23,50,95.53,263.65,2,5,Monthly,Premium,Credit Card,0
+19,23,75.39,,5,4,Monthly,Basic,Debit Card,1
+37,44,91.24,226.61,9,3,Monthly,Basic,Bank Transfer,0
+45,22,87.74,134.19,1,0,Yearly,Basic,Credit Card,0
+28,43,65.53,178.07,8,0,Yearly,Basic,Credit Card,0
+21,37,108.07,210.58,5,5,Two-Year,Premium,Credit Card,0
+32,61,118.61,59.09,6,5,Yearly,Standard,Credit Card,0
+23,56,21.9,134.71,4,4,Yearly,Basic,Bank Transfer,1
+66,3,46.94,249.12,8,5,Yearly,Standard,Credit Card,1
+47,63,112.72,196.76,0,2,Two-Year,Basic,Debit Card,0
+55,19,70.26,123.95,4,1,Yearly,Premium,UPI,0
+68,23,106.12,199.35,10,0,Two-Year,Standard,Bank Transfer,1
+19,29,65.11,36.35,9,2,Two-Year,Premium,Debit Card,1
+32,30,70.8,121.05,10,3,Two-Year,Basic,Debit Card,1
+28,39,40.63,238.15,5,2,Monthly,Premium,Debit Card,1
+25,25,53.57,66.93,6,4,Monthly,Premium,UPI,1
+43,8,98.7,56.6,11,3,Monthly,Basic,UPI,0
+68,58,76.31,285.29,3,3,Monthly,Basic,UPI,0
+62,16,120.66,63.76,11,5,Monthly,Standard,Debit Card,0
+61,72,130.84,79.01,0,2,Monthly,Basic,UPI,0
+22,1,90.41,290.92,10,4,Monthly,Standard,Credit Card,1
+23,5,118.57,,7,0,Monthly,Premium,UPI,0
+43,3,59.9,,9,5,Yearly,Premium,Bank Transfer,1
+21,65,73.95,256.02,3,2,Monthly,Standard,Debit Card,0
+36,4,112.66,35.63,2,0,Yearly,Basic,Debit Card,0
+37,64,70.21,212.08,11,2,Yearly,Basic,Credit Card,1
+50,10,96.51,151.6,6,5,Yearly,Premium,UPI,1
+37,21,44.1,248.92,11,0,Two-Year,Standard,UPI,0
+66,46,97.97,152.93,1,5,Monthly,Premium,Bank Transfer,1
+29,27,,186.45,7,2,Monthly,Premium,Credit Card,1
+64,66,132.92,143.84,5,3,Monthly,Basic,Bank Transfer,0
+18,41,114.16,143.97,6,1,Monthly,Standard,Bank Transfer,0
+43,13,116.95,230.62,4,3,Yearly,Premium,Debit Card,1
+31,9,92.53,188.94,8,5,Monthly,Basic,Debit Card,1
+55,36,96.01,190.35,4,5,Monthly,Premium,UPI,0
+54,58,37.37,135.63,10,5,Monthly,Premium,UPI,1
+28,54,77.7,159.8,4,0,Monthly,Basic,Bank Transfer,0
+53,12,78.6,223.97,2,4,Yearly,Basic,UPI,1
+30,14,144.6,247.96,10,5,Yearly,Standard,Bank Transfer,0
+60,34,76.04,209.27,0,3,Monthly,Premium,UPI,0
+20,53,91.41,277.3,1,1,Monthly,Standard,UPI,0
+50,20,,246.28,7,5,Monthly,Basic,Debit Card,0
+23,16,102.78,169.0,0,5,Monthly,Basic,Debit Card,1
+67,70,117.27,201.75,6,5,Two-Year,Premium,Debit Card,1
+27,56,49.26,277.97,4,0,Monthly,Standard,Debit Card,0
+22,58,88.73,186.13,2,5,Yearly,Standard,Credit Card,0
+40,4,127.37,247.62,11,3,Two-Year,Premium,Debit Card,1
+27,4,80.2,,11,2,Monthly,Premium,Credit Card,0
+61,20,56.2,166.03,10,4,Monthly,Standard,Debit Card,1
+19,10,105.11,73.31,6,5,Two-Year,Basic,UPI,1
+30,24,127.09,128.37,8,0,Yearly,Basic,Bank Transfer,0
+57,26,28.21,290.36,1,3,Monthly,Premium,UPI,1
+19,37,120.98,197.67,7,5,Yearly,Standard,,1
+37,54,126.81,169.75,8,0,Yearly,Standard,Credit Card,1
+18,21,80.0,279.95,10,2,Monthly,Standard,Debit Card,1
+54,38,147.83,176.37,2,1,Two-Year,Basic,Bank Transfer,0
+26,46,122.27,158.3,1,5,Monthly,Basic,Bank Transfer,1
+34,4,120.58,228.03,6,3,Monthly,Standard,Debit Card,1
+26,60,117.22,214.09,4,0,Two-Year,Standard,Credit Card,0
+28,57,39.58,58.75,4,0,Yearly,Premium,Credit Card,0
+32,45,48.24,141.92,9,5,Monthly,Premium,Credit Card,1
+41,20,80.32,142.28,4,0,Monthly,Standard,Bank Transfer,0
+55,17,54.32,114.09,3,1,Yearly,Standard,Credit Card,0
+52,71,73.98,155.67,4,0,Yearly,Basic,Credit Card,1
+47,4,135.5,124.52,3,4,Yearly,Standard,,1
+48,14,127.16,60.6,5,4,Two-Year,Premium,Bank Transfer,0
+66,3,101.91,124.3,3,0,Two-Year,Basic,UPI,0
+22,58,131.56,22.61,1,5,Monthly,Premium,Bank Transfer,1
+61,55,121.89,173.16,8,4,Monthly,Premium,Debit Card,0
+67,4,75.77,256.24,1,3,Monthly,Basic,Bank Transfer,1
+31,24,46.14,217.86,8,4,Yearly,Premium,Bank Transfer,1
+28,34,86.85,108.76,9,0,Yearly,Standard,Credit Card,0
+26,30,115.71,27.03,5,5,Monthly,Premium,UPI,0
+51,19,76.73,61.44,8,2,Monthly,Basic,Credit Card,1
+29,31,106.68,164.1,8,5,Monthly,Basic,UPI,1
+52,60,32.26,62.91,2,5,Monthly,Basic,Credit Card,1
+52,60,117.24,163.65,0,5,Monthly,Premium,Debit Card,0
+18,19,125.65,70.25,0,3,Monthly,Standard,Credit Card,1
+57,49,111.89,254.83,2,1,Monthly,Basic,Credit Card,1
+39,63,145.74,119.78,4,0,Monthly,Standard,Debit Card,0
+46,22,127.46,74.42,2,1,Yearly,Basic,Debit Card,1
+25,24,137.4,243.89,11,2,Monthly,Standard,Bank Transfer,1
+28,30,141.36,103.51,8,1,Yearly,Standard,Credit Card,1
+58,58,124.18,34.33,8,0,Yearly,Standard,Debit Card,1
+54,31,107.65,171.55,2,0,Yearly,Basic,Debit Card,0
+31,64,20.74,174.89,2,2,Yearly,Premium,Bank Transfer,0
+47,19,80.56,214.69,11,0,Monthly,Premium,UPI,0
+52,48,94.25,72.83,4,2,Monthly,Premium,Debit Card,0
+38,45,59.52,133.69,1,2,Two-Year,Standard,Debit Card,0
+54,55,61.35,85.43,5,0,Yearly,Basic,Credit Card,0
+22,55,144.95,25.21,6,4,Two-Year,Standard,Bank Transfer,1
+36,18,135.92,263.11,8,2,Yearly,Basic,Credit Card,1
+31,63,130.39,218.93,5,0,Monthly,Standard,UPI,0
+43,47,72.78,91.14,2,4,Monthly,Basic,Bank Transfer,1
+21,57,21.78,180.21,11,2,Yearly,Basic,Credit Card,1
+42,45,30.43,61.18,4,4,Monthly,Basic,,0
+62,33,60.59,267.18,3,3,Monthly,Standard,Debit Card,0
+59,17,22.05,35.36,4,5,Yearly,Premium,Bank Transfer,1
+42,70,22.23,2.15,7,3,Monthly,Standard,Debit Card,1
+35,4,,151.1,7,4,Monthly,Standard,Credit Card,1
+57,20,111.8,175.36,5,2,Yearly,Basic,Bank Transfer,0
+25,47,60.16,174.11,0,0,Yearly,Basic,,1
+56,15,37.24,17.3,7,1,Monthly,Premium,Debit Card,1
+57,70,86.51,94.9,7,0,Yearly,Premium,UPI,0
+31,47,20.7,150.26,1,1,Two-Year,Basic,UPI,0
+49,9,141.99,65.76,3,1,Monthly,Premium,Bank Transfer,1
+68,16,73.93,261.92,11,2,Monthly,Premium,UPI,1
+55,69,72.3,27.05,1,4,Monthly,Basic,Credit Card,0
+50,61,70.78,146.73,3,0,Monthly,Standard,Debit Card,0
+40,10,29.01,207.73,11,4,Monthly,Premium,Debit Card,1
+32,50,102.98,79.26,9,3,Two-Year,Basic,Debit Card,1
+50,3,115.29,187.65,6,2,Yearly,Premium,Bank Transfer,1
+42,70,107.9,248.99,8,2,Yearly,Premium,Bank Transfer,1
+34,51,38.0,57.91,7,3,Two-Year,Basic,UPI,0
+50,19,95.25,275.25,11,0,Two-Year,Premium,Debit Card,1
+64,42,94.03,166.51,8,5,Monthly,Premium,Debit Card,0
+19,35,132.89,90.47,7,3,Monthly,Premium,Debit Card,0
+31,46,69.29,129.83,1,0,Yearly,Standard,Debit Card,0
+57,26,68.29,94.35,6,1,Monthly,Standard,Debit Card,1
+57,69,100.41,217.81,1,2,Monthly,Premium,Credit Card,0
+68,64,102.3,239.09,11,0,Yearly,Basic,Debit Card,1
+56,37,81.01,250.05,10,4,Two-Year,Premium,,0
+68,49,77.6,295.74,1,4,Monthly,Premium,Debit Card,0
+23,21,84.24,237.59,3,2,Yearly,Standard,Bank Transfer,1
+23,64,131.94,180.81,0,3,Monthly,Standard,Bank Transfer,1
+20,5,79.95,102.43,4,5,Yearly,Standard,Credit Card,1
+24,70,,163.83,5,3,Monthly,Premium,Debit Card,0
+68,4,85.52,13.28,8,0,Two-Year,Premium,Bank Transfer,0
+25,39,143.4,223.7,9,3,Monthly,Basic,Bank Transfer,0
+59,35,128.27,134.34,7,2,Yearly,Premium,Debit Card,0
+69,1,67.12,6.99,1,0,Monthly,Premium,Debit Card,1
+32,24,132.27,19.69,0,1,Monthly,Standard,Bank Transfer,0
+64,57,34.31,116.85,1,3,Monthly,Standard,Debit Card,0
+46,70,140.26,175.44,6,3,Monthly,Standard,UPI,1
+50,41,102.11,139.8,3,5,Monthly,Standard,Debit Card,1
+69,54,27.07,186.14,9,0,Monthly,Standard,Bank Transfer,0
+47,46,103.75,144.61,4,4,Yearly,Basic,Bank Transfer,0
+56,60,146.65,198.85,11,3,Yearly,Basic,Credit Card,0
+44,60,29.07,66.52,6,2,Monthly,Basic,UPI,0
+53,57,92.11,34.74,2,3,Yearly,Standard,Bank Transfer,0
+46,31,117.21,179.33,9,5,Monthly,Standard,UPI,1
+55,24,,145.92,1,1,Monthly,Standard,Debit Card,1
+50,36,73.8,9.03,6,5,Monthly,Basic,Bank Transfer,0
+54,30,46.54,114.76,4,3,Yearly,Standard,Credit Card,0
+44,24,25.5,32.73,0,4,Monthly,Basic,Bank Transfer,1
+50,30,95.36,159.88,0,3,Two-Year,Standard,Credit Card,1
+21,7,78.88,119.34,8,0,Monthly,Premium,UPI,0
+39,35,143.34,184.33,4,3,Monthly,Basic,Credit Card,0
+19,55,27.88,241.88,0,4,Monthly,Premium,Debit Card,0
+27,14,109.1,90.6,6,0,Two-Year,Basic,Debit Card,1
+22,10,23.25,288.67,8,2,Yearly,Standard,Debit Card,1
+27,16,42.29,161.15,10,0,Yearly,Standard,Bank Transfer,1
+50,54,78.97,185.87,0,5,Two-Year,Premium,Debit Card,1
+55,70,79.13,204.52,9,1,Two-Year,Standard,Debit Card,0
+30,44,109.14,200.35,3,5,Yearly,Basic,Bank Transfer,1
+48,45,138.33,153.78,2,0,Monthly,Standard,UPI,0
+64,56,103.07,129.2,4,2,Yearly,Standard,Debit Card,0
+53,57,143.96,17.08,6,3,Monthly,Basic,Debit Card,1
+62,21,134.61,7.6,7,0,Yearly,Premium,Bank Transfer,0
+41,68,95.98,108.03,1,5,Yearly,Premium,UPI,0
+69,50,128.39,100.76,6,0,Yearly,Standard,UPI,1
+32,33,103.54,116.92,0,0,Monthly,Basic,UPI,0
+46,7,30.21,42.37,6,0,Yearly,Premium,Bank Transfer,0
+25,70,116.27,221.71,7,2,Two-Year,Premium,Credit Card,1
+22,15,32.34,257.23,1,4,Monthly,Standard,Credit Card,1
+46,32,97.23,281.68,8,4,Monthly,Basic,Debit Card,1
+64,20,111.34,148.22,0,0,Yearly,Premium,Debit Card,0
+21,15,,210.56,5,2,Two-Year,Standard,Debit Card,0
+29,48,50.0,256.81,0,2,Monthly,Standard,Credit Card,0
+62,71,,126.07,2,0,Monthly,Standard,Bank Transfer,1
+19,21,100.12,93.51,10,5,Monthly,Standard,Debit Card,0
+44,42,52.02,281.08,5,5,Monthly,Premium,Bank Transfer,1
+48,26,109.79,155.19,2,1,Two-Year,Basic,Debit Card,1
+68,14,,149.68,7,0,Yearly,Standard,Bank Transfer,0
+68,57,85.2,54.35,4,1,Yearly,Standard,Bank Transfer,0
+53,37,146.9,33.34,1,5,Monthly,Premium,Credit Card,0
+53,58,108.85,252.79,3,5,Yearly,Standard,Bank Transfer,0
+43,21,68.81,184.63,8,0,Monthly,Standard,UPI,0
+60,69,124.01,98.42,3,1,Monthly,Basic,Credit Card,1
+44,3,135.0,58.33,9,1,Monthly,Standard,Debit Card,1
+22,37,36.28,167.09,9,0,Monthly,Premium,Credit Card,0
+37,49,46.07,175.59,7,1,Monthly,Basic,UPI,1
+28,19,48.11,62.89,4,3,Monthly,Premium,UPI,0
+27,12,109.86,255.57,10,5,Monthly,Basic,Bank Transfer,1
+57,61,98.4,26.2,10,4,Monthly,Basic,UPI,1
+55,41,100.47,107.47,9,2,Yearly,Standard,UPI,0
+23,33,142.3,204.43,0,1,Monthly,Standard,UPI,1
+25,50,120.87,82.96,6,1,Two-Year,Standard,UPI,0
+40,68,36.63,248.47,2,2,Monthly,Premium,Debit Card,1
+64,71,65.18,222.22,9,1,Yearly,Standard,Debit Card,0
+43,33,76.6,236.92,7,2,Two-Year,Standard,Credit Card,1
+63,24,,36.61,11,0,Two-Year,Basic,Bank Transfer,1
+60,61,107.01,43.02,2,3,Two-Year,Standard,Debit Card,1
+29,61,135.95,86.66,0,3,Monthly,Standard,UPI,0
+43,28,59.79,155.91,4,5,Monthly,Standard,Bank Transfer,0
+30,58,91.74,224.66,1,4,Monthly,Standard,Debit Card,0
+57,43,122.62,251.12,10,1,Monthly,Basic,Credit Card,1
+35,41,74.11,211.6,3,4,Monthly,Standard,UPI,0
+42,39,41.86,278.65,0,0,Two-Year,Basic,Bank Transfer,1
+50,49,81.74,221.88,8,3,Yearly,Premium,Debit Card,0
+64,17,27.18,92.57,5,0,Yearly,Standard,Bank Transfer,1
+57,70,142.51,80.26,7,0,Two-Year,Standard,Debit Card,0
+60,70,29.73,209.16,10,1,Yearly,Standard,Credit Card,0
+29,65,77.0,58.67,3,0,Yearly,Basic,UPI,0
+61,5,88.88,28.72,8,3,Yearly,Standard,Credit Card,1
+53,2,148.09,,1,4,Monthly,Standard,UPI,0
+65,22,41.58,246.67,8,3,Monthly,Premium,UPI,1
+21,57,34.88,31.31,11,1,Two-Year,Basic,Bank Transfer,1
+22,66,21.13,237.78,4,3,Two-Year,Basic,Debit Card,1
+54,16,40.22,243.66,5,2,Two-Year,Premium,Credit Card,0
+25,51,46.95,145.2,2,4,Monthly,Basic,Credit Card,0
+59,39,101.98,18.14,3,2,Two-Year,Standard,Credit Card,1
+66,40,48.56,53.2,5,2,Monthly,Standard,Bank Transfer,1
+45,38,,212.52,6,5,Monthly,Premium,Bank Transfer,0
+48,60,127.46,213.82,0,1,Monthly,Basic,Bank Transfer,0
+26,59,67.53,269.61,6,0,Monthly,Basic,UPI,1
+68,10,65.98,175.22,0,2,Monthly,Basic,Credit Card,1
+46,64,59.32,38.11,4,3,Monthly,Premium,UPI,0
+31,63,146.8,37.3,5,0,Monthly,Standard,Credit Card,0
+57,49,42.12,216.62,1,3,Monthly,Premium,Credit Card,0
+58,64,136.77,55.95,9,3,Yearly,Standard,Debit Card,0
+39,32,120.98,99.19,8,0,Yearly,Premium,Credit Card,1
+28,7,29.94,146.68,9,0,Monthly,Standard,Bank Transfer,1
+40,21,,8.4,5,3,Monthly,Basic,Bank Transfer,1
+18,20,55.28,75.4,6,1,Yearly,Basic,Bank Transfer,1
+63,26,32.82,122.96,9,4,Monthly,Basic,Debit Card,0
+54,68,127.81,84.61,7,5,Monthly,Premium,Debit Card,0
+38,15,111.87,,10,4,Yearly,Premium,UPI,0
+43,14,100.24,218.68,9,1,Two-Year,Premium,,1
+63,27,40.28,244.13,0,5,Monthly,Basic,Credit Card,0
+53,40,82.2,77.99,7,0,Monthly,Standard,Bank Transfer,0
+40,58,121.47,232.55,3,5,Monthly,Basic,Bank Transfer,1
+18,28,59.47,116.28,9,3,Yearly,Basic,Bank Transfer,0
+68,26,60.52,152.5,7,4,Monthly,Standard,Bank Transfer,1
+57,63,20.41,256.94,5,5,Monthly,Standard,Bank Transfer,1
+32,66,42.65,225.24,10,3,Monthly,Standard,Bank Transfer,0
+38,25,133.8,241.73,8,1,Two-Year,Standard,Credit Card,0
+64,3,77.43,41.92,10,5,Yearly,Basic,Debit Card,1
+26,72,147.95,21.85,3,3,Yearly,Premium,Bank Transfer,1
+26,44,71.44,268.13,1,1,Yearly,Basic,Credit Card,0
+27,42,112.97,116.96,1,0,Monthly,Standard,Bank Transfer,0
+69,6,56.65,87.08,4,1,Two-Year,Premium,UPI,0
+43,39,67.3,217.68,9,1,Yearly,Premium,UPI,1
+58,52,44.79,251.09,8,4,Monthly,Basic,Credit Card,1
+52,23,65.12,258.88,11,3,Yearly,Basic,Debit Card,1
+69,50,91.14,95.48,2,5,Yearly,Basic,UPI,1
+42,43,148.93,255.81,7,4,Yearly,Premium,UPI,1
+43,19,106.35,13.24,3,2,Monthly,Premium,Debit Card,1
+28,69,45.9,15.85,5,1,Two-Year,Premium,UPI,0
+55,51,25.84,187.43,9,2,Two-Year,Standard,Bank Transfer,1
+19,11,36.43,19.87,5,4,Monthly,Standard,Debit Card,0
+24,12,93.13,98.06,2,3,Monthly,Basic,UPI,1
+35,8,119.47,202.15,4,4,Monthly,Premium,Debit Card,1
+44,24,142.25,101.84,11,3,Two-Year,Basic,,1
+51,41,22.06,54.7,2,3,Yearly,Premium,UPI,0
+44,36,87.96,,10,0,Monthly,Basic,,1
+34,72,81.21,137.82,10,1,Monthly,Standard,UPI,0
+60,55,105.29,143.14,0,4,Monthly,Premium,UPI,0
+61,9,92.75,235.12,6,3,Yearly,Standard,Bank Transfer,0
+68,47,109.32,225.3,3,4,Monthly,Premium,Credit Card,1
+41,15,105.55,137.59,6,4,Two-Year,Basic,Credit Card,1
+42,48,35.21,253.85,2,3,Yearly,Premium,Credit Card,0
+24,42,123.96,35.16,11,5,Yearly,Standard,Bank Transfer,1
+69,60,36.02,77.35,10,2,Monthly,Premium,Bank Transfer,0
+23,70,110.81,248.56,4,1,Monthly,Basic,,0
+41,12,74.1,114.02,4,1,Monthly,Premium,Bank Transfer,0
+50,2,,294.37,1,5,Monthly,Standard,Bank Transfer,0
+66,7,,140.41,10,0,Monthly,Basic,Credit Card,0
+46,3,135.68,237.79,9,5,Two-Year,Standard,Debit Card,0
+60,3,126.32,121.29,11,0,Monthly,Premium,Bank Transfer,1
+39,27,86.32,128.06,1,0,Monthly,Standard,Debit Card,0
+43,40,115.71,115.48,3,5,Monthly,Premium,UPI,0
+45,33,86.68,216.0,3,1,Monthly,Basic,UPI,0
+67,1,133.05,164.71,3,2,Two-Year,Standard,Bank Transfer,0
+38,8,72.36,283.19,5,1,Monthly,Standard,UPI,1
+66,32,146.13,76.02,1,1,Monthly,Premium,Debit Card,1
+24,48,141.2,31.07,5,1,Yearly,Standard,UPI,1
+34,4,116.41,118.59,6,5,Monthly,Standard,UPI,1
+37,70,56.32,185.4,10,5,Monthly,Basic,Debit Card,1
+58,19,37.11,258.38,9,5,Monthly,Premium,UPI,0
+66,32,131.11,104.51,2,1,Monthly,Premium,Bank Transfer,1
+37,9,,,10,2,Monthly,Basic,Debit Card,0
+39,12,131.05,105.71,11,0,Monthly,Basic,Debit Card,0
+45,11,83.8,185.55,7,4,Yearly,Premium,Credit Card,1
+57,46,72.85,265.56,1,0,Monthly,Basic,Credit Card,1
+66,16,137.41,70.18,10,0,Yearly,Basic,Debit Card,0
+24,1,98.5,121.87,7,4,Yearly,Basic,Debit Card,0
+18,63,94.96,297.99,10,1,Monthly,Premium,Credit Card,0
+49,21,92.64,260.7,4,2,Monthly,Basic,Bank Transfer,0
+30,30,68.25,169.83,1,2,Monthly,Standard,UPI,0
+47,13,122.13,155.47,6,0,Yearly,Standard,UPI,0
+40,34,52.86,86.1,1,4,Yearly,Premium,UPI,0
+68,4,142.06,155.65,5,3,Yearly,Basic,Debit Card,0
+36,28,136.22,254.61,9,1,Monthly,Standard,Bank Transfer,0
+49,59,63.87,205.87,2,0,Two-Year,Premium,Credit Card,1
+47,27,114.83,87.72,8,2,Monthly,Standard,Bank Transfer,0
+46,69,94.52,61.24,2,5,Monthly,Basic,Bank Transfer,1
+66,25,63.89,80.3,10,5,Monthly,Premium,UPI,0
+62,3,148.51,51.76,11,4,Monthly,Standard,Credit Card,1
+46,68,23.28,29.6,11,4,Monthly,Premium,Bank Transfer,1
+47,25,52.84,126.32,2,0,Yearly,Standard,Credit Card,1
+33,20,87.61,34.88,4,3,Yearly,Standard,,1
+57,34,87.85,52.4,6,2,Two-Year,Basic,UPI,1
+36,26,96.56,164.65,7,0,Monthly,Basic,Credit Card,0
+35,5,117.72,50.22,11,3,Yearly,Standard,Debit Card,1
+18,61,101.05,20.1,10,4,Monthly,Premium,Debit Card,1
+31,9,,95.9,6,5,Monthly,Premium,Debit Card,1
+68,50,26.96,66.88,8,1,Monthly,Basic,Bank Transfer,0
+64,6,68.95,155.08,4,5,Monthly,Standard,Bank Transfer,1
+67,60,50.17,31.61,9,2,Monthly,Basic,UPI,1
+19,44,54.5,225.78,10,2,Monthly,Standard,UPI,0
+45,11,92.06,271.96,2,5,Yearly,Standard,Debit Card,0
+66,66,45.94,223.29,5,5,Two-Year,Basic,UPI,1
+67,47,58.21,160.32,4,3,Monthly,Premium,Bank Transfer,1
+47,3,50.82,258.34,11,0,Two-Year,Basic,UPI,1
+55,30,143.31,208.78,3,4,Yearly,Standard,Credit Card,0
+68,21,142.81,4.15,11,3,Monthly,Basic,Bank Transfer,1
+21,28,99.29,118.83,1,1,Yearly,Premium,Debit Card,0
+18,62,140.19,255.43,6,5,Monthly,Premium,Debit Card,1
+25,33,122.16,104.41,4,1,Yearly,Standard,UPI,0
+46,35,96.69,11.53,3,1,Yearly,Basic,Bank Transfer,1
+56,52,20.84,224.11,11,3,Two-Year,Premium,Debit Card,1
+20,34,120.43,240.81,7,4,Yearly,Basic,Debit Card,1
+49,41,,49.02,8,2,Yearly,Premium,Bank Transfer,1
+27,51,99.98,161.66,8,0,Yearly,Standard,Bank Transfer,1
+27,47,118.86,58.39,2,2,Monthly,Standard,Debit Card,0
+36,58,86.68,216.05,2,4,Monthly,Basic,,0
+63,57,111.53,82.19,4,2,Monthly,Standard,UPI,1
+51,23,141.57,95.55,4,5,Monthly,Premium,,0
+50,48,68.85,253.65,9,5,Monthly,Standard,Credit Card,0
+40,22,112.06,143.42,1,3,Two-Year,Premium,Bank Transfer,0
+45,17,81.84,201.26,0,1,Monthly,Premium,Debit Card,0
+49,69,107.67,121.31,7,4,Two-Year,Standard,Credit Card,0
+67,11,119.18,90.1,2,4,Yearly,Premium,UPI,1
+24,15,25.91,188.02,0,2,Yearly,Premium,Credit Card,0
+46,35,104.06,47.3,0,3,Two-Year,Basic,Debit Card,1
+25,33,49.48,112.53,10,2,Monthly,Basic,Debit Card,1
+18,16,107.1,63.5,1,2,Two-Year,Basic,Bank Transfer,1
+20,34,80.88,209.04,5,4,Monthly,Standard,UPI,1
+41,66,120.56,283.32,5,2,Monthly,Basic,UPI,0
+40,40,36.04,298.66,2,1,Monthly,Premium,Credit Card,0
+25,28,101.42,135.63,11,2,Monthly,Standard,UPI,0
+64,47,56.2,76.51,3,1,Yearly,Standard,Credit Card,1
+54,39,130.89,133.41,11,4,Monthly,Standard,Debit Card,1
+20,70,140.69,254.33,1,3,Monthly,Standard,Debit Card,0
+68,20,149.53,62.6,1,5,Two-Year,Premium,Debit Card,0
+50,1,123.48,285.68,6,1,Yearly,Premium,Debit Card,1
+45,72,117.99,103.22,0,3,Monthly,Basic,Debit Card,1
+64,63,48.02,295.76,6,3,Yearly,Standard,Credit Card,0
+25,67,63.68,251.74,11,1,Yearly,Basic,Debit Card,1
+51,4,80.54,242.76,11,4,Two-Year,Premium,Credit Card,0
+52,58,120.54,96.05,0,0,Monthly,Standard,Debit Card,0
+49,25,138.95,3.62,5,3,Monthly,Premium,Credit Card,1
+41,47,44.59,115.26,2,3,Monthly,Basic,Credit Card,1
+31,38,139.91,91.24,7,4,Monthly,Premium,Credit Card,1
+49,15,110.43,12.18,5,4,Two-Year,Standard,UPI,1
+63,63,99.4,,10,2,Monthly,Standard,,0
+60,21,45.98,121.51,1,4,Two-Year,Basic,Credit Card,0
+33,57,27.22,190.73,7,3,Monthly,Standard,Debit Card,0
+21,53,93.9,186.73,4,1,Two-Year,Premium,Credit Card,0
+69,46,104.7,,7,0,Monthly,Premium,Credit Card,1
+54,14,47.4,293.11,7,2,Two-Year,Premium,Bank Transfer,0
+38,17,92.34,56.89,5,1,Two-Year,Premium,UPI,0
+31,39,131.34,134.14,1,0,Two-Year,Basic,Bank Transfer,0
+48,9,128.56,146.95,7,0,Monthly,Premium,Debit Card,1
+65,6,140.56,244.11,10,0,Monthly,Basic,UPI,1
+35,23,67.57,30.67,5,5,Yearly,Premium,,0
+24,59,61.35,129.16,5,1,Monthly,Basic,Bank Transfer,0
+27,46,117.43,188.92,7,2,Monthly,Premium,UPI,1
+24,38,76.04,65.33,0,2,Monthly,Premium,Bank Transfer,0
+50,14,31.38,188.61,1,0,Monthly,Basic,Credit Card,0
+40,72,56.76,277.18,11,1,Monthly,Standard,Bank Transfer,0
+38,62,74.42,299.26,11,5,Monthly,Standard,UPI,0
+36,35,58.03,10.7,8,0,Monthly,Standard,UPI,0
+65,19,63.19,71.44,10,4,Monthly,Basic,Debit Card,1
+36,30,58.19,93.78,11,2,Yearly,Standard,Debit Card,0
+53,25,25.39,120.34,7,3,Monthly,Standard,Debit Card,1
+46,40,102.82,73.43,11,0,Monthly,Basic,Debit Card,1
+35,14,97.65,61.84,6,4,Two-Year,Standard,UPI,0
+19,26,104.94,286.41,6,2,Two-Year,Standard,Debit Card,0
+18,22,45.0,275.64,4,5,Two-Year,Standard,,1
+64,48,58.44,15.05,1,1,Two-Year,Basic,Credit Card,1
+22,51,100.55,102.31,10,2,Monthly,Basic,UPI,0
+37,3,97.95,122.14,5,1,Yearly,Standard,,0
+28,42,85.82,72.47,9,1,Monthly,Standard,UPI,0
+59,19,65.55,189.03,2,5,Yearly,Basic,Debit Card,1
+19,28,138.68,192.47,3,5,Monthly,Standard,UPI,0
+20,45,64.17,255.3,9,0,Yearly,Basic,Debit Card,0
+40,71,79.23,222.52,11,0,Monthly,Standard,Credit Card,0
+29,63,108.15,163.23,10,2,Monthly,Basic,Debit Card,0
+37,19,90.59,196.42,1,5,Yearly,Premium,Bank Transfer,1
+22,47,65.1,82.92,1,4,Monthly,Premium,UPI,0
+54,14,76.63,178.32,11,2,Monthly,Basic,UPI,1
+55,38,123.28,147.28,7,3,Monthly,Premium,Bank Transfer,1
+47,53,56.16,40.87,7,1,Monthly,Standard,Bank Transfer,0
+26,61,38.49,73.52,9,1,Monthly,Basic,Credit Card,0
+51,36,60.71,88.22,5,0,Two-Year,Basic,UPI,0
+61,40,130.44,277.37,4,4,Monthly,Standard,Credit Card,1
+52,30,31.57,69.89,7,5,Monthly,Standard,UPI,1
+69,9,148.92,87.48,3,5,Monthly,Basic,UPI,0
+39,64,90.33,111.44,10,0,Yearly,Standard,Credit Card,1
+61,33,148.03,199.46,3,3,Yearly,Basic,UPI,0
+41,52,142.07,36.35,4,2,Yearly,Standard,UPI,1
+34,14,78.87,286.23,0,2,Yearly,Basic,Credit Card,0
+27,53,45.8,259.81,0,4,Two-Year,Standard,Debit Card,1
+47,59,41.44,173.59,1,0,Two-Year,Standard,Credit Card,0
+63,41,51.2,202.54,7,0,Yearly,Premium,UPI,0
+40,68,112.32,5.98,6,3,Monthly,Premium,Bank Transfer,0
+49,68,55.48,102.34,9,2,Yearly,Premium,Debit Card,0
+34,8,64.39,238.9,8,0,Monthly,Standard,Bank Transfer,0
+67,2,78.34,24.17,4,5,Yearly,Basic,Debit Card,0
+68,41,138.72,85.41,1,4,Yearly,Standard,Bank Transfer,0
+34,55,44.62,176.0,6,2,Yearly,Premium,,0
+31,16,20.65,77.67,7,3,Yearly,Standard,Credit Card,1
+26,62,27.81,280.26,11,4,Monthly,Premium,Debit Card,1
+57,48,137.62,40.19,6,1,Monthly,Premium,Debit Card,1
+19,30,104.18,239.42,6,5,Monthly,Basic,Debit Card,1
+62,12,55.5,152.88,11,3,Two-Year,Basic,UPI,1
+42,35,43.04,225.35,4,4,Yearly,Premium,Bank Transfer,1
+56,11,58.25,93.9,1,0,Yearly,Premium,Credit Card,1
+26,64,34.92,154.83,5,1,Yearly,Standard,Bank Transfer,1
+39,50,142.4,257.19,3,3,Yearly,Premium,Bank Transfer,0
+60,21,121.95,140.6,9,0,Two-Year,Standard,Credit Card,0
+63,69,80.11,108.56,1,5,Yearly,Premium,UPI,1
+21,48,132.45,161.31,11,1,Yearly,Basic,Debit Card,0
+43,20,52.43,215.49,8,2,Yearly,Basic,UPI,1
+46,67,113.23,133.63,6,0,Monthly,Premium,UPI,0
+62,44,131.3,281.72,5,4,Yearly,Standard,Debit Card,0
+51,33,66.38,89.19,11,3,Monthly,Standard,Bank Transfer,1
+40,61,118.47,143.16,4,1,Monthly,Standard,Debit Card,0
+54,9,58.36,227.32,2,0,Yearly,Premium,Credit Card,0
+28,68,58.85,207.05,11,2,Monthly,Premium,Debit Card,1
+23,35,33.92,259.23,9,3,Two-Year,Basic,Bank Transfer,0
+35,65,77.21,299.05,9,3,Monthly,Basic,UPI,1
